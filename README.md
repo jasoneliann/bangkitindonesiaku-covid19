@@ -11,17 +11,26 @@ Pandemi Covid-19 merupakan masalah global yang sekarang sedang marak-maraknya. O
 
 ## Sumber Data
 - [Covid19.go.id](https://covid19.go.id)
+- [WHO CSV](https://covid19.who.int/WHO-COVID-19-global-data.csv)
 
 # Sekilas Mengenai Project
-Project ini merupakan project yang menggunakan `Python3`. Didukung oleh crawler yang bertugas mengumpulkan data yang menggunakan `scrapy`. Lalu menggunakan `xlsxwriter` untuk men-generate data.
+Project ini merupakan project yang menggunakan `Python3`. Didukung oleh crawler yang bertugas mengumpulkan data yang menggunakan `scrapy`. Lalu menggunakan `xlsxwriter` untuk men-generate data. `pandas` sebagai referensi utama pengolahan data.
 
 ## Command
-### Crawl
+### Crawl Covid19.go.id
 ```
 scrapy crawl crawler
+```
+
+### Crawl WHO data csv
+```
+scrapy crawl crawlerWHO
 ```
 
 ### Convert CSV to XLSX
 ```
 python3 csv_to_xslx.py
 ```
+
+## Data Only
+[Kaggle](https://www.kaggle.com/jasoneliann/bangkitindonesiakucovid19realtime/settings)

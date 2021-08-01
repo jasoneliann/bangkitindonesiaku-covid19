@@ -8,7 +8,7 @@ import os
 from xlsxwriter.workbook import Workbook
 
 def csv_to_xlsx():
-    path_directory = "./Result"
+    path_directory = "./Data/PerkembanganKasus"
 
     workbook = Workbook("Indonesia-Covid" + ".xlsx")
 
@@ -31,9 +31,7 @@ def csv_to_xlsx():
                     if r == 0: 
                         worksheet.write_string(r, c, value, cell_header_format)
                     # Tanggal
-                    elif c == 0 and r != 0:             
-                        timestamp = int(value)
-                        date_time = datetime.datetime.fromtimestamp(timestamp / 1e3)
+                    elif c == 0 and r != 0:
                         worksheet.write_datetime(r, c, date_time, cell_date_format)
                     
                     else: 
@@ -43,4 +41,5 @@ def csv_to_xlsx():
     workbook.worksheets_objs.sort(key=lambda x: x.name)
     workbook.close()
 
-csv_to_xlsx()
+if __name__ == "__main__": 
+    csv_to_xlsx()
