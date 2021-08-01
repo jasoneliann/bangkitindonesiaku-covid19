@@ -3,9 +3,16 @@ import json
 import csv
 import datetime
 # System
-import glob
 import os
 from xlsxwriter.workbook import Workbook
+
+# import python script
+import sys
+absolute_path = os.path.abspath(__file__)
+script_dir = os.path.dirname(absolute_path) + "/../../Script/"
+sys.path.append(script_dir)
+
+import csv_to_xslx
 
 class CrawlerSpider(scrapy.Spider):
     name = 'crawler'
@@ -49,7 +56,7 @@ class CrawlerSpider(scrapy.Spider):
     ]
 
     def parse(self, response):
-        result_directory = "Result/"
+        result_directory = "Data/PerkembanganKasus/Indonesia/"
         url = response.url
 
         keyword = 'prov_detail_'
@@ -83,7 +90,17 @@ class CrawlerSpider(scrapy.Spider):
                 csv_writer.writerow(header)
                 count += 1
             
+            timestamp = int(row.get("tanggal"))
+            date_time = datetime.datetime.fromtimestamp(timestamp / 1e3)
+
+            row["tanggal"] = date_time.strftime("%d-%m-%Y")
+            
+
             # Writing data of CSV file
             csv_writer.writerow(row.values())
         
         data_file.close()
+
+    def convert_timestamp_to_datetime(): 
+        timestamp = int(value)
+        date_time = datetime.datetime.fromtimestamp(timestamp / 1e3)
