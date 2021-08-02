@@ -574,3 +574,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 28-07-2021,SV,El Salvador,AMRO,1088,85779,10,2577
 29-07-2021,SV,El Salvador,AMRO,280,86059,10,2587
 30-07-2021,SV,El Salvador,AMRO,0,86059,12,2599
+31-07-2021,SV,El Salvador,AMRO,561,86620,14,2613
+01-08-2021,SV,El Salvador,AMRO,0,86620,16,2629
+02-08-2021,SV,El Salvador,AMRO,0,86620,12,2641

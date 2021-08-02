@@ -573,4 +573,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 27-07-2021,DJ,Djibouti,EMRO,2,11637,0,155
 28-07-2021,DJ,Djibouti,EMRO,3,11640,0,155
 29-07-2021,DJ,Djibouti,EMRO,7,11647,0,155
-30-07-2021,DJ,Djibouti,EMRO,0,11647,0,155
+30-07-2021,DJ,Djibouti,EMRO,2,11649,0,155
+31-07-2021,DJ,Djibouti,EMRO,2,11651,1,156
+01-08-2021,DJ,Djibouti,EMRO,0,11651,0,156
+02-08-2021,DJ,Djibouti,EMRO,1,11652,0,156

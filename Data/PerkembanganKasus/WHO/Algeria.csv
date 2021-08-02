@@ -574,3 +574,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 28-07-2021,DZ,Algeria,AFRO,1544,165204,25,4112
 29-07-2021,DZ,Algeria,AFRO,1927,167131,49,4161
 30-07-2021,DZ,Algeria,AFRO,1537,168668,28,4189
+31-07-2021,DZ,Algeria,AFRO,0,168668,0,4189
+01-08-2021,DZ,Algeria,AFRO,2724,171392,65,4254

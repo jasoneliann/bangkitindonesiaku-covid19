@@ -574,3 +574,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 28-07-2021,SO,Somalia,EMRO,43,15294,1,798
 29-07-2021,SO,Somalia,EMRO,29,15323,6,804
 30-07-2021,SO,Somalia,EMRO,35,15358,5,809
+31-07-2021,SO,Somalia,EMRO,0,15358,0,809
+01-08-2021,SO,Somalia,EMRO,45,15403,2,811
+02-08-2021,SO,Somalia,EMRO,53,15456,2,813
