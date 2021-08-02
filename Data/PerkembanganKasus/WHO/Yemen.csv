@@ -574,3 +574,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 28-07-2021,YE,Yemen,EMRO,10,7022,0,1374
 29-07-2021,YE,Yemen,EMRO,5,7027,0,1374
 30-07-2021,YE,Yemen,EMRO,15,7042,0,1374
+31-07-2021,YE,Yemen,EMRO,16,7058,1,1375
+01-08-2021,YE,Yemen,EMRO,3,7061,0,1375
+02-08-2021,YE,Yemen,EMRO,9,7070,2,1377

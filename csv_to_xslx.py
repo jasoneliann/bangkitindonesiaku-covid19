@@ -8,7 +8,7 @@ import os
 from xlsxwriter.workbook import Workbook
 
 def csv_to_xlsx():
-    path_directory = "./Data/PerkembanganKasus"
+    path_directory = "./Data/PerkembanganKasus/Indonesia/"
 
     workbook = Workbook("Indonesia-Covid" + ".xlsx")
 
@@ -32,7 +32,7 @@ def csv_to_xlsx():
                         worksheet.write_string(r, c, value, cell_header_format)
                     # Tanggal
                     elif c == 0 and r != 0:
-                        worksheet.write_datetime(r, c, date_time, cell_date_format)
+                        worksheet.write_string(r, c, value, cell_date_format)
                     
                     else: 
                         new_value = int(value)

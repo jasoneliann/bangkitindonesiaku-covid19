@@ -574,3 +574,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 28-07-2021,HU,Hungary,EURO,74,809362,4,30025
 29-07-2021,HU,Hungary,EURO,65,809427,0,30025
 30-07-2021,HU,Hungary,EURO,64,809491,1,30026
+31-07-2021,HU,Hungary,EURO,0,809491,0,30026
+01-08-2021,HU,Hungary,EURO,0,809491,0,30026

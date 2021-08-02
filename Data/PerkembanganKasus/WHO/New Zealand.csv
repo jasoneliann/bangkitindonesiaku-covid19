@@ -572,5 +572,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 26-07-2021,NZ,New Zealand,WPRO,3,2507,0,26
 27-07-2021,NZ,New Zealand,WPRO,0,2507,0,26
 28-07-2021,NZ,New Zealand,WPRO,-1,2506,0,26
-29-07-2021,NZ,New Zealand,WPRO,5,2511,0,26
-30-07-2021,NZ,New Zealand,WPRO,3,2514,0,26
+29-07-2021,NZ,New Zealand,WPRO,4,2510,0,26
+30-07-2021,NZ,New Zealand,WPRO,3,2513,0,26
+31-07-2021,NZ,New Zealand,WPRO,-1,2512,0,26
+01-08-2021,NZ,New Zealand,WPRO,5,2517,0,26
+02-08-2021,NZ,New Zealand,WPRO,4,2521,0,26
