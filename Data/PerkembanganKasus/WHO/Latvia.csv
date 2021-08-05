@@ -576,4 +576,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 30-07-2021,LV,Latvia,EURO,67,138717,0,2554
 31-07-2021,LV,Latvia,EURO,82,138799,2,2556
 01-08-2021,LV,Latvia,EURO,64,138863,0,2556
-02-08-2021,LV,Latvia,EURO,62,138925,0,2556
+02-08-2021,LV,Latvia,EURO,36,138899,0,2556
+03-08-2021,LV,Latvia,EURO,26,138925,0,2556
+04-08-2021,LV,Latvia,EURO,112,139037,0,2556

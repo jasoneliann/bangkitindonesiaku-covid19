@@ -576,4 +576,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 30-07-2021,GT,Guatemala,AMRO,3336,362134,24,10248
 31-07-2021,GT,Guatemala,AMRO,0,362134,0,10248
 01-08-2021,GT,Guatemala,AMRO,6350,368484,91,10339
-02-08-2021,GT,Guatemala,AMRO,0,368484,0,10339
+02-08-2021,GT,Guatemala,AMRO,1142,369626,74,10413
+03-08-2021,GT,Guatemala,AMRO,632,370258,35,10448
+04-08-2021,GT,Guatemala,AMRO,2789,373047,35,10483

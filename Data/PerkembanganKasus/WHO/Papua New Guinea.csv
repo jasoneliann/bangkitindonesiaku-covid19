@@ -574,6 +574,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 28-07-2021,PG,Papua New Guinea,WPRO,15,17670,0,192
 29-07-2021,PG,Papua New Guinea,WPRO,16,17686,0,192
 30-07-2021,PG,Papua New Guinea,WPRO,31,17717,0,192
-31-07-2021,PG,Papua New Guinea,WPRO,57,17774,6,198
-01-08-2021,PG,Papua New Guinea,WPRO,0,17774,0,198
-02-08-2021,PG,Papua New Guinea,WPRO,0,17774,0,198
+31-07-2021,PG,Papua New Guinea,WPRO,57,17774,0,192
+01-08-2021,PG,Papua New Guinea,WPRO,0,17774,0,192
+02-08-2021,PG,Papua New Guinea,WPRO,1,17775,0,192
+03-08-2021,PG,Papua New Guinea,WPRO,3,17778,0,192
+04-08-2021,PG,Papua New Guinea,WPRO,2,17780,0,192

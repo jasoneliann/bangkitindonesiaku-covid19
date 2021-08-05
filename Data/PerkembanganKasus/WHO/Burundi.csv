@@ -576,4 +576,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 30-07-2021,BI,Burundi,AFRO,215,7080,0,9
 31-07-2021,BI,Burundi,AFRO,188,7268,0,9
 01-08-2021,BI,Burundi,AFRO,104,7372,0,9
-02-08-2021,BI,Burundi,AFRO,133,7505,29,38
+02-08-2021,BI,Burundi,AFRO,133,7505,0,9
+03-08-2021,BI,Burundi,AFRO,13,7518,0,9
+04-08-2021,BI,Burundi,AFRO,196,7714,1,10

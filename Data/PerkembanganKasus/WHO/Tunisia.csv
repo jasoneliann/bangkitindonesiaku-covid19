@@ -577,3 +577,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 31-07-2021,TN,Tunisia,EMRO,3419,589565,183,19686
 01-08-2021,TN,Tunisia,EMRO,3316,592881,172,19858
 02-08-2021,TN,Tunisia,EMRO,2651,595532,209,20067
+03-08-2021,TN,Tunisia,EMRO,1243,596775,159,20226
+04-08-2021,TN,Tunisia,EMRO,0,596775,0,20226

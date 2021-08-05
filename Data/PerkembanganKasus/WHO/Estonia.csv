@@ -577,3 +577,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 31-07-2021,EE,Estonia,EURO,249,133557,0,1272
 01-08-2021,EE,Estonia,EURO,128,133685,0,1272
 02-08-2021,EE,Estonia,EURO,86,133771,0,1272
+03-08-2021,EE,Estonia,EURO,207,133978,0,1272
+04-08-2021,EE,Estonia,EURO,243,134221,1,1273

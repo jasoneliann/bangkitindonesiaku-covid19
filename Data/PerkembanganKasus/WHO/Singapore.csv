@@ -577,3 +577,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 31-07-2021,SG,Singapore,WPRO,139,64861,0,37
 01-08-2021,SG,Singapore,WPRO,120,64981,0,37
 02-08-2021,SG,Singapore,WPRO,121,65102,0,37
+03-08-2021,SG,Singapore,WPRO,111,65213,1,38
+04-08-2021,SG,Singapore,WPRO,102,65315,0,38

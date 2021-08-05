@@ -576,4 +576,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 30-07-2021,CR,Costa Rica,AMRO,1467,403511,10,4997
 31-07-2021,CR,Costa Rica,AMRO,1695,405206,16,5013
 01-08-2021,CR,Costa Rica,AMRO,1608,406814,17,5030
-02-08-2021,CR,Costa Rica,AMRO,0,406814,0,5030
+02-08-2021,CR,Costa Rica,AMRO,1386,408200,12,5042
+03-08-2021,CR,Costa Rica,AMRO,960,409160,6,5048
+04-08-2021,CR,Costa Rica,AMRO,1020,410180,11,5059

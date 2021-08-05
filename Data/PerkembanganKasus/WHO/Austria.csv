@@ -577,3 +577,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 31-07-2021,AT,Austria,EURO,517,654108,0,10535
 01-08-2021,AT,Austria,EURO,593,654701,0,10535
 02-08-2021,AT,Austria,EURO,444,655145,1,10536
+03-08-2021,AT,Austria,EURO,332,655477,1,10537
+04-08-2021,AT,Austria,EURO,376,655853,4,10541
