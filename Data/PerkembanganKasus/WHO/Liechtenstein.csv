@@ -575,5 +575,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 29-07-2021,LI,Liechtenstein,EURO,2,3187,0,58
 30-07-2021,LI,Liechtenstein,EURO,0,3187,0,58
 31-07-2021,LI,Liechtenstein,EURO,0,3187,0,58
-01-08-2021,LI,Liechtenstein,EURO,0,3187,0,58
-02-08-2021,LI,Liechtenstein,EURO,0,3187,0,58
+01-08-2021,LI,Liechtenstein,EURO,3,3190,0,58
+02-08-2021,LI,Liechtenstein,EURO,2,3192,0,58
+03-08-2021,LI,Liechtenstein,EURO,1,3193,0,58
+04-08-2021,LI,Liechtenstein,EURO,0,3193,0,58

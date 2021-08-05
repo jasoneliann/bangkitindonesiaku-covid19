@@ -576,4 +576,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 30-07-2021,LC,Saint Lucia,AMRO,30,5567,0,88
 31-07-2021,LC,Saint Lucia,AMRO,14,5581,1,89
 01-08-2021,LC,Saint Lucia,AMRO,29,5610,0,89
-02-08-2021,LC,Saint Lucia,AMRO,0,5610,0,89
+02-08-2021,LC,Saint Lucia,AMRO,22,5632,0,89
+03-08-2021,LC,Saint Lucia,AMRO,0,5632,0,89
+04-08-2021,LC,Saint Lucia,AMRO,14,5646,0,89

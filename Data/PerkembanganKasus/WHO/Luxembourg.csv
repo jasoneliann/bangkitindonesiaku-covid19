@@ -575,5 +575,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 29-07-2021,LU,Luxembourg,EURO,107,73744,0,822
 30-07-2021,LU,Luxembourg,EURO,72,73816,0,822
 31-07-2021,LU,Luxembourg,EURO,54,73870,0,822
-01-08-2021,LU,Luxembourg,EURO,0,73870,0,822
-02-08-2021,LU,Luxembourg,EURO,0,73870,0,822
+01-08-2021,LU,Luxembourg,EURO,65,73935,0,822
+02-08-2021,LU,Luxembourg,EURO,50,73985,0,822
+03-08-2021,LU,Luxembourg,EURO,5,73990,0,822
+04-08-2021,LU,Luxembourg,EURO,52,74042,0,822

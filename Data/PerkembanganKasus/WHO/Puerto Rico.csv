@@ -577,3 +577,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 31-07-2021,PR,Puerto Rico,AMRO,526,145487,1,2578
 01-08-2021,PR,Puerto Rico,AMRO,730,146217,2,2580
 02-08-2021,PR,Puerto Rico,AMRO,769,146986,0,2580
+03-08-2021,PR,Puerto Rico,AMRO,665,147651,1,2581
+04-08-2021,PR,Puerto Rico,AMRO,169,147820,4,2585

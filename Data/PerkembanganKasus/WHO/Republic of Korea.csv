@@ -576,4 +576,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 30-07-2021,KR,Republic of Korea,WPRO,1710,196806,4,2089
 31-07-2021,KR,Republic of Korea,WPRO,1539,198345,6,2095
 01-08-2021,KR,Republic of Korea,WPRO,1442,199787,3,2098
-02-08-2021,KR,Republic of Korea,WPRO,1215,201002,1,2099
+02-08-2021,KR,Republic of Korea,WPRO,1214,201001,1,2099
+03-08-2021,KR,Republic of Korea,WPRO,1200,202201,5,2104
+04-08-2021,KR,Republic of Korea,WPRO,1725,203926,2,2106
