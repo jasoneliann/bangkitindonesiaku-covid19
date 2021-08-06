@@ -577,5 +577,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 31-07-2021,HT,Haiti,AMRO,46,20203,3,558
 01-08-2021,HT,Haiti,AMRO,42,20245,0,558
 02-08-2021,HT,Haiti,AMRO,62,20307,2,560
-03-08-2021,HT,Haiti,AMRO,0,20307,0,560
-04-08-2021,HT,Haiti,AMRO,0,20307,0,560
+03-08-2021,HT,Haiti,AMRO,19,20326,3,563
+04-08-2021,HT,Haiti,AMRO,0,20326,0,563
+05-08-2021,HT,Haiti,AMRO,0,20326,0,563
