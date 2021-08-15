@@ -580,3 +580,11 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 03-08-2021,SG,Singapore,WPRO,111,65213,1,38
 04-08-2021,SG,Singapore,WPRO,102,65315,0,38
 05-08-2021,SG,Singapore,WPRO,95,65410,1,39
+06-08-2021,SG,Singapore,WPRO,98,65508,1,40
+07-08-2021,SG,Singapore,WPRO,97,65605,1,41
+08-08-2021,SG,Singapore,WPRO,81,65686,1,42
+09-08-2021,SG,Singapore,WPRO,78,65764,0,42
+10-08-2021,SG,Singapore,WPRO,71,65835,0,42
+11-08-2021,SG,Singapore,WPRO,55,65890,0,42
+12-08-2021,SG,Singapore,WPRO,63,65953,0,42
+13-08-2021,SG,Singapore,WPRO,59,66012,1,43
