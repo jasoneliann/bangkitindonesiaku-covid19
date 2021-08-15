@@ -101,7 +101,7 @@ def extract_global_WHO_csv_to_each_country(csv_path, target_path):
 
             country_dataframe = convert_series_to_dataframe(country_series)
 
-            country_name = country_series[0]["country"]
+            country_name = country_series[0]["country"].replace("'", "")
             write_to_disk(country_dataframe, country_name, target_path)
 
             # New iteration
@@ -114,4 +114,4 @@ def extract_global_WHO_csv_to_each_country(csv_path, target_path):
         country_series.append(col)
     
 if __name__ == "__main__": 
-    extract_global_WHO_csv_to_each_country("../Data/WHO-COVID-19-global-data.csv", "../Data/PerkembanganKasus/WHO/")
+    extract_global_WHO_csv_to_each_country("../Data/PerkembanganKasus/WHO-COVID-19-global-data.csv", "../Data/PerkembanganKasus/WHO/")
