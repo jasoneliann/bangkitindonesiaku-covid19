@@ -588,3 +588,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-08-2021,CN,China,WPRO,123,121960,1,5662
 12-08-2021,CN,China,WPRO,98,122058,2,5664
 13-08-2021,CN,China,WPRO,110,122168,1,5665
+14-08-2021,CN,China,WPRO,87,122255,2,5667
+15-08-2021,CN,China,WPRO,62,122317,2,5669
+16-08-2021,CN,China,WPRO,61,122378,0,5669

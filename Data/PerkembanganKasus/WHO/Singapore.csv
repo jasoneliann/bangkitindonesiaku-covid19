@@ -588,3 +588,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-08-2021,SG,Singapore,WPRO,55,65890,0,42
 12-08-2021,SG,Singapore,WPRO,63,65953,0,42
 13-08-2021,SG,Singapore,WPRO,59,66012,1,43
+14-08-2021,SG,Singapore,WPRO,49,66061,1,44
+15-08-2021,SG,Singapore,WPRO,58,66119,0,44
+16-08-2021,SG,Singapore,WPRO,53,66172,0,44

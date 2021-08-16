@@ -588,3 +588,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-08-2021,ZA,South Africa,AFRO,6540,2546762,189,75201
 12-08-2021,ZA,South Africa,AFRO,7478,2554240,573,75774
 13-08-2021,ZA,South Africa,AFRO,14271,2568511,473,76247
+14-08-2021,ZA,South Africa,AFRO,13916,2582427,384,76631
+15-08-2021,ZA,South Africa,AFRO,0,2582427,0,76631

@@ -588,3 +588,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-08-2021,GT,Guatemala,AMRO,3254,394372,37,10845
 12-08-2021,GT,Guatemala,AMRO,4618,398990,53,10898
 13-08-2021,GT,Guatemala,AMRO,4358,403348,62,10960
+14-08-2021,GT,Guatemala,AMRO,0,403348,0,10960
+15-08-2021,GT,Guatemala,AMRO,8383,411731,125,11085
+16-08-2021,GT,Guatemala,AMRO,0,411731,0,11085

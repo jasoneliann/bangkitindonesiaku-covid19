@@ -588,3 +588,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-08-2021,NZ,New Zealand,WPRO,2,2548,0,26
 12-08-2021,NZ,New Zealand,WPRO,9,2557,0,26
 13-08-2021,NZ,New Zealand,WPRO,1,2558,0,26
+14-08-2021,NZ,New Zealand,WPRO,-1,2557,0,26
+15-08-2021,NZ,New Zealand,WPRO,6,2563,0,26
+16-08-2021,NZ,New Zealand,WPRO,7,2570,0,26

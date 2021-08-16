@@ -588,3 +588,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-08-2021,HU,Hungary,EURO,80,810126,0,30037
 12-08-2021,HU,Hungary,EURO,86,810212,0,30037
 13-08-2021,HU,Hungary,EURO,104,810316,1,30038
+14-08-2021,HU,Hungary,EURO,0,810316,0,30038
+15-08-2021,HU,Hungary,EURO,0,810316,0,30038

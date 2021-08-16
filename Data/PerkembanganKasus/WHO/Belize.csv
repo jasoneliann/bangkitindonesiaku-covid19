@@ -588,3 +588,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-08-2021,BZ,Belize,AMRO,61,14499,1,340
 12-08-2021,BZ,Belize,AMRO,79,14578,1,341
 13-08-2021,BZ,Belize,AMRO,94,14672,3,344
+14-08-2021,BZ,Belize,AMRO,66,14738,0,344
+15-08-2021,BZ,Belize,AMRO,109,14847,0,344
+16-08-2021,BZ,Belize,AMRO,0,14847,0,344
