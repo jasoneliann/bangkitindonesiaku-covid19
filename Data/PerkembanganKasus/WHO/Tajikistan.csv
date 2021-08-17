@@ -589,4 +589,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 12-08-2021,TJ,Tajikistan,EURO,68,16330,0,124
 13-08-2021,TJ,Tajikistan,EURO,67,16397,0,124
 14-08-2021,TJ,Tajikistan,EURO,64,16461,0,124
-15-08-2021,TJ,Tajikistan,EURO,0,16461,0,124
+15-08-2021,TJ,Tajikistan,EURO,60,16521,1,125
+16-08-2021,TJ,Tajikistan,EURO,0,16521,0,125
