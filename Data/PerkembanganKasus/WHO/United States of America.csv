@@ -590,5 +590,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 13-08-2021,US,United States of America,AMRO,141652,36099344,620,614267
 14-08-2021,US,United States of America,AMRO,140676,36240020,683,614950
 15-08-2021,US,United States of America,AMRO,145237,36385257,797,615747
-16-08-2021,US,United States of America,AMRO,162382,36547639,964,616711
-17-08-2021,US,United States of America,AMRO,0,36547639,0,616711
+16-08-2021,US,United States of America,AMRO,181433,36566690,1054,616801
+17-08-2021,US,United States of America,AMRO,96898,36663588,296,617097
+18-08-2021,US,United States of America,AMRO,113803,36777391,531,617628
