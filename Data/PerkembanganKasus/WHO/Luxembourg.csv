@@ -592,4 +592,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 15-08-2021,LU,Luxembourg,EURO,49,74644,0,828
 16-08-2021,LU,Luxembourg,EURO,39,74683,0,828
 17-08-2021,LU,Luxembourg,EURO,7,74690,0,828
-18-08-2021,LU,Luxembourg,EURO,0,74690,0,828
+18-08-2021,LU,Luxembourg,EURO,89,74779,0,828
+19-08-2021,LU,Luxembourg,EURO,76,74855,1,829
