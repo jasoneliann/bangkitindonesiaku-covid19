@@ -593,4 +593,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 16-08-2021,SI,Slovenia,EURO,95,261430,0,4764
 17-08-2021,SI,Slovenia,EURO,57,261487,0,4764
 18-08-2021,SI,Slovenia,EURO,318,261805,0,4764
-19-08-2021,SI,Slovenia,EURO,385,262190,0,4764
+19-08-2021,SI,Slovenia,EURO,385,262190,1,4765
+20-08-2021,SI,Slovenia,EURO,381,262571,1,4766
