@@ -595,3 +595,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 18-08-2021,NO,Norway,EURO,534,145012,1,810
 19-08-2021,NO,Norway,EURO,748,145760,1,811
 20-08-2021,NO,Norway,EURO,609,146369,0,811
+21-08-2021,NO,Norway,EURO,688,147057,0,811
+22-08-2021,NO,Norway,EURO,0,147057,0,811
