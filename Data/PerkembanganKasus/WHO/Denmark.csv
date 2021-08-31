@@ -602,3 +602,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 25-08-2021,DK,Denmark,EURO,1340,339580,1,2568
 26-08-2021,DK,Denmark,EURO,987,340567,3,2571
 27-08-2021,DK,Denmark,EURO,982,341549,2,2573
+28-08-2021,DK,Denmark,EURO,925,342474,3,2576
+29-08-2021,DK,Denmark,EURO,1000,343474,0,2576
+30-08-2021,DK,Denmark,EURO,614,344088,4,2580

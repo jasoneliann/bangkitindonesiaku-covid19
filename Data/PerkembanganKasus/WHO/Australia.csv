@@ -601,4 +601,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 24-08-2021,AU,Australia,WPRO,895,44908,3,984
 25-08-2021,AU,Australia,WPRO,825,45733,0,984
 26-08-2021,AU,Australia,WPRO,976,46709,2,986
-27-08-2021,AU,Australia,WPRO,1131,47840,3,989
+27-08-2021,AU,Australia,WPRO,1120,47829,3,989
+28-08-2021,AU,Australia,WPRO,975,48804,2,991
+29-08-2021,AU,Australia,WPRO,1124,49928,2,993
+30-08-2021,AU,Australia,WPRO,1328,51256,6,999

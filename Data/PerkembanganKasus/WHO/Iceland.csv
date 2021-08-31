@@ -602,3 +602,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 25-08-2021,IS,Iceland,EURO,0,10254,0,30
 26-08-2021,IS,Iceland,EURO,189,10443,1,31
 27-08-2021,IS,Iceland,EURO,0,10443,0,31
+28-08-2021,IS,Iceland,EURO,71,10514,1,32
+29-08-2021,IS,Iceland,EURO,91,10605,0,32
+30-08-2021,IS,Iceland,EURO,53,10658,0,32
