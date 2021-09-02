@@ -604,5 +604,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 27-08-2021,BN,Brunei Darussalam,WPRO,106,2265,1,7
 28-08-2021,BN,Brunei Darussalam,WPRO,115,2380,0,7
 29-08-2021,BN,Brunei Darussalam,WPRO,82,2462,0,7
-30-08-2021,BN,Brunei Darussalam,WPRO,103,2565,1,8
-31-08-2021,BN,Brunei Darussalam,WPRO,76,2641,0,8
+30-08-2021,BN,Brunei Darussalam,WPRO,103,2565,0,7
+31-08-2021,BN,Brunei Darussalam,WPRO,76,2641,1,8
+01-09-2021,BN,Brunei Darussalam,WPRO,71,2712,1,9
