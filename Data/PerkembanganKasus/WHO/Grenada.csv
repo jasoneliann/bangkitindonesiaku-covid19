@@ -607,3 +607,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 30-08-2021,GD,Grenada,AMRO,0,296,0,1
 31-08-2021,GD,Grenada,AMRO,61,357,0,1
 01-09-2021,GD,Grenada,AMRO,104,461,0,1
+02-09-2021,GD,Grenada,AMRO,78,539,1,2
+03-09-2021,GD,Grenada,AMRO,125,664,1,3

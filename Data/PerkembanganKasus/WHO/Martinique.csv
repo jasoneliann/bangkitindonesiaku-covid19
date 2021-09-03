@@ -605,5 +605,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 28-08-2021,MQ,Martinique,AMRO,0,35953,0,411
 29-08-2021,MQ,Martinique,AMRO,0,35953,0,411
 30-08-2021,MQ,Martinique,AMRO,0,35953,0,411
-31-08-2021,MQ,Martinique,AMRO,0,35953,0,411
-01-09-2021,MQ,Martinique,AMRO,0,35953,0,411
+31-08-2021,MQ,Martinique,AMRO,1239,37192,49,460
+01-09-2021,MQ,Martinique,AMRO,-1239,35953,-49,411
+02-09-2021,MQ,Martinique,AMRO,1758,37711,49,460
+03-09-2021,MQ,Martinique,AMRO,274,37985,17,477

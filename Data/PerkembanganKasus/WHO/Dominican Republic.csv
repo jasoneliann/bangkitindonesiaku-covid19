@@ -607,3 +607,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 30-08-2021,DO,Dominican Republic,AMRO,239,349859,0,4007
 31-08-2021,DO,Dominican Republic,AMRO,158,350017,0,4007
 01-09-2021,DO,Dominican Republic,AMRO,156,350173,1,4008
+02-09-2021,DO,Dominican Republic,AMRO,295,350468,0,4008
+03-09-2021,DO,Dominican Republic,AMRO,321,350789,1,4009

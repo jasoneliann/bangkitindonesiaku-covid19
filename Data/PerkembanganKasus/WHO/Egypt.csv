@@ -607,3 +607,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 30-08-2021,EG,Egypt,EMRO,255,287899,7,16721
 31-08-2021,EG,Egypt,EMRO,263,288162,6,16727
 01-09-2021,EG,Egypt,EMRO,279,288441,9,16736
+02-09-2021,EG,Egypt,EMRO,291,288732,7,16743
+03-09-2021,EG,Egypt,EMRO,0,288732,0,16743
