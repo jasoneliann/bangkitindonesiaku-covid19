@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,ET,Ethiopia,AFRO,1324,308134,15,4675
 02-09-2021,ET,Ethiopia,AFRO,1217,309351,17,4692
 03-09-2021,ET,Ethiopia,AFRO,1643,310994,19,4711
+04-09-2021,ET,Ethiopia,AFRO,1354,312348,20,4731
+05-09-2021,ET,Ethiopia,AFRO,1120,313468,0,4731
+06-09-2021,ET,Ethiopia,AFRO,1516,314984,32,4763

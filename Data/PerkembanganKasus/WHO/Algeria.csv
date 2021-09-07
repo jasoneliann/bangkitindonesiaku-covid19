@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,DZ,Algeria,AFRO,506,196080,29,5269
 02-09-2021,DZ,Algeria,AFRO,447,196527,33,5302
 03-09-2021,DZ,Algeria,AFRO,388,196915,37,5339
+04-09-2021,DZ,Algeria,AFRO,393,197308,34,5373
+05-09-2021,DZ,Algeria,AFRO,351,197659,0,5373
+06-09-2021,DZ,Algeria,AFRO,0,197659,26,5399

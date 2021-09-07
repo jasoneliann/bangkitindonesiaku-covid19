@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,AF,Afghanistan,EMRO,40,153260,5,7123
 02-09-2021,AF,Afghanistan,EMRO,46,153306,4,7127
 03-09-2021,AF,Afghanistan,EMRO,69,153375,0,7127
+04-09-2021,AF,Afghanistan,EMRO,20,153395,1,7128
+05-09-2021,AF,Afghanistan,EMRO,28,153423,4,7132
+06-09-2021,AF,Afghanistan,EMRO,111,153534,9,7141
+07-09-2021,AF,Afghanistan,EMRO,92,153626,3,7144

@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,MT,Malta,EURO,48,36171,1,441
 02-09-2021,MT,Malta,EURO,76,36247,0,441
 03-09-2021,MT,Malta,EURO,75,36322,0,441
+04-09-2021,MT,Malta,EURO,42,36364,0,441
+05-09-2021,MT,Malta,EURO,62,36426,1,442
+06-09-2021,MT,Malta,EURO,49,36475,2,444

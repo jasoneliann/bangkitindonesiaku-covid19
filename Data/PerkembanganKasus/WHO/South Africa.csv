@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,ZA,South Africa,AFRO,7084,2777659,431,82261
 02-09-2021,ZA,South Africa,AFRO,9544,2787203,235,82496
 03-09-2021,ZA,South Africa,AFRO,9202,2796405,418,82914
+04-09-2021,ZA,South Africa,AFRO,9199,2805604,247,83161
+05-09-2021,ZA,South Africa,AFRO,8410,2814014,0,83161
+06-09-2021,ZA,South Africa,AFRO,5931,2819945,258,83419

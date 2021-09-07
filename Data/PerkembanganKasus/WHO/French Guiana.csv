@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,GF,French Guiana,AMRO,298,35073,2,219
 02-09-2021,GF,French Guiana,AMRO,0,35073,0,219
 03-09-2021,GF,French Guiana,AMRO,236,35309,1,220
+04-09-2021,GF,French Guiana,AMRO,219,35528,1,221
+05-09-2021,GF,French Guiana,AMRO,193,35721,0,221
+06-09-2021,GF,French Guiana,AMRO,0,35721,0,221
+07-09-2021,GF,French Guiana,AMRO,314,36035,2,223

@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,IS,Iceland,EURO,0,10789,0,33
 02-09-2021,IS,Iceland,EURO,67,10856,0,33
 03-09-2021,IS,Iceland,EURO,56,10912,0,33
+04-09-2021,IS,Iceland,EURO,44,10956,0,33
+05-09-2021,IS,Iceland,EURO,76,11032,0,33
+06-09-2021,IS,Iceland,EURO,0,11032,0,33

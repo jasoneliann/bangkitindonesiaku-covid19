@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,CZ,Czechia,EURO,287,1679476,0,30404
 02-09-2021,CZ,Czechia,EURO,262,1679738,0,30404
 03-09-2021,CZ,Czechia,EURO,308,1680046,1,30405
+04-09-2021,CZ,Czechia,EURO,308,1680354,1,30406
+05-09-2021,CZ,Czechia,EURO,205,1680559,0,30406
+06-09-2021,CZ,Czechia,EURO,138,1680697,0,30406

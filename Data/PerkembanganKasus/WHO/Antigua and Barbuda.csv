@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,AG,Antigua and Barbuda,AMRO,2,1715,0,44
 02-09-2021,AG,Antigua and Barbuda,AMRO,4,1719,0,44
 03-09-2021,AG,Antigua and Barbuda,AMRO,23,1742,0,44
+04-09-2021,AG,Antigua and Barbuda,AMRO,8,1750,0,44
+05-09-2021,AG,Antigua and Barbuda,AMRO,9,1759,2,46
+06-09-2021,AG,Antigua and Barbuda,AMRO,111,1870,0,46
+07-09-2021,AG,Antigua and Barbuda,AMRO,0,1870,0,46

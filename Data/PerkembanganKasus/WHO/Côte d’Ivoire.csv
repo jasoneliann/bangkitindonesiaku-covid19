@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,CI,Côte d’Ivoire,AFRO,561,55669,11,441
 02-09-2021,CI,Côte d’Ivoire,AFRO,479,56148,4,445
 03-09-2021,CI,Côte d’Ivoire,AFRO,373,56521,6,451
+04-09-2021,CI,Côte d’Ivoire,AFRO,87,56608,4,455
+05-09-2021,CI,Côte d’Ivoire,AFRO,127,56735,0,455
+06-09-2021,CI,Côte d’Ivoire,AFRO,120,56855,12,467

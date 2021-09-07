@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,LU,Luxembourg,EURO,88,75760,0,830
 02-09-2021,LU,Luxembourg,EURO,144,75904,0,830
 03-09-2021,LU,Luxembourg,EURO,77,75981,0,830
+04-09-2021,LU,Luxembourg,EURO,121,76102,0,830
+05-09-2021,LU,Luxembourg,EURO,0,76102,0,830
+06-09-2021,LU,Luxembourg,EURO,0,76102,0,830

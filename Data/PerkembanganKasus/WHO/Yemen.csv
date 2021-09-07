@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,YE,Yemen,EMRO,40,7869,3,1472
 02-09-2021,YE,Yemen,EMRO,31,7900,8,1480
 03-09-2021,YE,Yemen,EMRO,51,7951,6,1486
+04-09-2021,YE,Yemen,EMRO,67,8018,27,1513
+05-09-2021,YE,Yemen,EMRO,38,8056,6,1519
+06-09-2021,YE,Yemen,EMRO,0,8056,0,1519
+07-09-2021,YE,Yemen,EMRO,86,8142,11,1530

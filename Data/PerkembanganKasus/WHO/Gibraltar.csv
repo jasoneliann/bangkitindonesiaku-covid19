@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,GI,Gibraltar,EURO,0,5342,0,97
 02-09-2021,GI,Gibraltar,EURO,25,5367,0,97
 03-09-2021,GI,Gibraltar,EURO,0,5367,0,97
+04-09-2021,GI,Gibraltar,EURO,9,5376,0,97
+05-09-2021,GI,Gibraltar,EURO,10,5386,0,97
+06-09-2021,GI,Gibraltar,EURO,2,5388,0,97

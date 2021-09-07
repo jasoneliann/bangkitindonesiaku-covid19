@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,CW,Curaçao,AMRO,15,15263,0,143
 02-09-2021,CW,Curaçao,AMRO,36,15299,1,144
 03-09-2021,CW,Curaçao,AMRO,0,15299,0,144
+04-09-2021,CW,Curaçao,AMRO,80,15379,3,147
+05-09-2021,CW,Curaçao,AMRO,0,15379,0,147
+06-09-2021,CW,Curaçao,AMRO,0,15379,0,147
+07-09-2021,CW,Curaçao,AMRO,91,15470,2,149

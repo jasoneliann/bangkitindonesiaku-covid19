@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,SK,Slovakia,EURO,199,395122,0,12548
 02-09-2021,SK,Slovakia,EURO,178,395300,0,12548
 03-09-2021,SK,Slovakia,EURO,232,395532,1,12549
+04-09-2021,SK,Slovakia,EURO,329,395861,0,12549
+05-09-2021,SK,Slovakia,EURO,219,396080,0,12549
+06-09-2021,SK,Slovakia,EURO,101,396181,2,12551

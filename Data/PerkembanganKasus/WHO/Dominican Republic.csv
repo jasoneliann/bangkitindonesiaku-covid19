@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,DO,Dominican Republic,AMRO,156,350173,1,4008
 02-09-2021,DO,Dominican Republic,AMRO,295,350468,0,4008
 03-09-2021,DO,Dominican Republic,AMRO,321,350789,1,4009
+04-09-2021,DO,Dominican Republic,AMRO,411,351200,0,4009
+05-09-2021,DO,Dominican Republic,AMRO,253,351453,3,4012
+06-09-2021,DO,Dominican Republic,AMRO,285,351738,0,4012
+07-09-2021,DO,Dominican Republic,AMRO,156,351894,0,4012

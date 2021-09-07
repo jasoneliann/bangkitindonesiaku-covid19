@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,HT,Haiti,AMRO,1,20942,0,586
 02-09-2021,HT,Haiti,AMRO,-1,20941,0,586
 03-09-2021,HT,Haiti,AMRO,36,20977,0,586
+04-09-2021,HT,Haiti,AMRO,0,20977,0,586
+05-09-2021,HT,Haiti,AMRO,0,20977,0,586
+06-09-2021,HT,Haiti,AMRO,92,21069,2,588
+07-09-2021,HT,Haiti,AMRO,25,21094,0,588

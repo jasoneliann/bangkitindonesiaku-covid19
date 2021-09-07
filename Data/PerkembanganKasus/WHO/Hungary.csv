@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,HU,Hungary,EURO,194,812531,1,30059
 02-09-2021,HU,Hungary,EURO,262,812793,1,30060
 03-09-2021,HU,Hungary,EURO,247,813040,1,30061
+04-09-2021,HU,Hungary,EURO,0,813040,0,30061
+05-09-2021,HU,Hungary,EURO,0,813040,0,30061
+06-09-2021,HU,Hungary,EURO,648,813688,9,30070

@@ -608,4 +608,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 31-08-2021,KZ,Kazakhstan,EURO,4378,863581,0,13732
 01-09-2021,KZ,Kazakhstan,EURO,5340,868921,0,13732
 02-09-2021,KZ,Kazakhstan,EURO,5288,874209,0,13732
-03-09-2021,KZ,Kazakhstan,EURO,0,874209,0,13732
+03-09-2021,KZ,Kazakhstan,EURO,5149,879358,0,13732
+04-09-2021,KZ,Kazakhstan,EURO,4866,884224,0,13732
+05-09-2021,KZ,Kazakhstan,EURO,3964,888188,691,14423
+06-09-2021,KZ,Kazakhstan,EURO,0,888188,0,14423

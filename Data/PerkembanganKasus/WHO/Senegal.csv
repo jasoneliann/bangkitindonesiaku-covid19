@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,SN,Senegal,AFRO,52,72805,5,1765
 02-09-2021,SN,Senegal,AFRO,115,72920,9,1774
 03-09-2021,SN,Senegal,AFRO,57,72977,6,1780
+04-09-2021,SN,Senegal,AFRO,70,73047,5,1785
+05-09-2021,SN,Senegal,AFRO,57,73104,0,1785
+06-09-2021,SN,Senegal,AFRO,84,73188,18,1803

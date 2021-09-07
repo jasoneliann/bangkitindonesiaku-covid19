@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,SX,Sint Maarten,AMRO,38,3679,2,51
 02-09-2021,SX,Sint Maarten,AMRO,40,3719,0,51
 03-09-2021,SX,Sint Maarten,AMRO,0,3719,0,51
+04-09-2021,SX,Sint Maarten,AMRO,56,3775,5,56
+05-09-2021,SX,Sint Maarten,AMRO,0,3775,0,56
+06-09-2021,SX,Sint Maarten,AMRO,0,3775,0,56
+07-09-2021,SX,Sint Maarten,AMRO,49,3824,1,57

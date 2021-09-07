@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,PG,Papua New Guinea,WPRO,101,18192,0,192
 02-09-2021,PG,Papua New Guinea,WPRO,11,18203,0,192
 03-09-2021,PG,Papua New Guinea,WPRO,25,18228,0,192
+04-09-2021,PG,Papua New Guinea,WPRO,7,18235,0,192
+05-09-2021,PG,Papua New Guinea,WPRO,6,18241,0,192
+06-09-2021,PG,Papua New Guinea,WPRO,24,18265,0,192
+07-09-2021,PG,Papua New Guinea,WPRO,11,18276,2,194

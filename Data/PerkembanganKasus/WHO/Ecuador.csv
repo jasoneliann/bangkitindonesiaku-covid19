@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,EC,Ecuador,AMRO,0,501201,0,32244
 02-09-2021,EC,Ecuador,AMRO,0,501201,0,32244
 03-09-2021,EC,Ecuador,AMRO,945,502146,52,32296
+04-09-2021,EC,Ecuador,AMRO,0,502146,0,32296
+05-09-2021,EC,Ecuador,AMRO,0,502146,0,32296
+06-09-2021,EC,Ecuador,AMRO,1621,503767,55,32351
+07-09-2021,EC,Ecuador,AMRO,0,503767,0,32351

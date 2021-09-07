@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,LA,Lao People's Democratic Republic,WPRO,199,15015,0,14
 02-09-2021,LA,Lao People's Democratic Republic,WPRO,274,15289,0,14
 03-09-2021,LA,Lao People's Democratic Republic,WPRO,170,15459,0,14
+04-09-2021,LA,Lao People's Democratic Republic,WPRO,146,15605,1,15
+05-09-2021,LA,Lao People's Democratic Republic,WPRO,156,15761,1,16
+06-09-2021,LA,Lao People's Democratic Republic,WPRO,172,15933,0,16
+07-09-2021,LA,Lao People's Democratic Republic,WPRO,125,16058,0,16

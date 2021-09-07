@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,AO,Angola,AFRO,213,47544,7,1217
 02-09-2021,AO,Angola,AFRO,237,47781,10,1227
 03-09-2021,AO,Angola,AFRO,223,48004,8,1235
+04-09-2021,AO,Angola,AFRO,257,48261,13,1248
+05-09-2021,AO,Angola,AFRO,214,48475,0,1248
+06-09-2021,AO,Angola,AFRO,0,48475,10,1258

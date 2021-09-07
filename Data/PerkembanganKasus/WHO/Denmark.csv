@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,DK,Denmark,EURO,843,345693,4,2584
 02-09-2021,DK,Denmark,EURO,825,346518,0,2584
 03-09-2021,DK,Denmark,EURO,694,347212,0,2584
+04-09-2021,DK,Denmark,EURO,697,347909,3,2587
+05-09-2021,DK,Denmark,EURO,438,348347,3,2590
+06-09-2021,DK,Denmark,EURO,632,348979,0,2590

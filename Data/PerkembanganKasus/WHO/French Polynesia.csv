@@ -607,5 +607,9 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 30-08-2021,PF,French Polynesia,WPRO,0,40178,0,385
 31-08-2021,PF,French Polynesia,WPRO,0,40178,38,423
 01-09-2021,PF,French Polynesia,WPRO,0,40178,0,423
-02-09-2021,PF,French Polynesia,WPRO,0,40178,23,446
-03-09-2021,PF,French Polynesia,WPRO,1931,42109,17,463
+02-09-2021,PF,French Polynesia,WPRO,1931,42109,23,446
+03-09-2021,PF,French Polynesia,WPRO,0,42109,17,463
+04-09-2021,PF,French Polynesia,WPRO,0,42109,17,480
+05-09-2021,PF,French Polynesia,WPRO,0,42109,0,480
+06-09-2021,PF,French Polynesia,WPRO,0,42109,0,480
+07-09-2021,PF,French Polynesia,WPRO,0,42109,33,513

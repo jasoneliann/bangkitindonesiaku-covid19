@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,ZM,Zambia,AFRO,182,206327,3,3602
 02-09-2021,ZM,Zambia,AFRO,195,206522,3,3605
 03-09-2021,ZM,Zambia,AFRO,183,206705,3,3608
+04-09-2021,ZM,Zambia,AFRO,179,206884,3,3611
+05-09-2021,ZM,Zambia,AFRO,144,207028,0,3611
+06-09-2021,ZM,Zambia,AFRO,86,207114,5,3616

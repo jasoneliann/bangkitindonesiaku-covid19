@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,DM,Dominica,AMRO,0,1638,0,4
 02-09-2021,DM,Dominica,AMRO,0,1638,0,4
 03-09-2021,DM,Dominica,AMRO,0,1638,0,4
+04-09-2021,DM,Dominica,AMRO,194,1832,0,4
+05-09-2021,DM,Dominica,AMRO,0,1832,0,4
+06-09-2021,DM,Dominica,AMRO,0,1832,0,4
+07-09-2021,DM,Dominica,AMRO,166,1998,1,5

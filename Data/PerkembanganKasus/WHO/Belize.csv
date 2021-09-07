@@ -609,3 +609,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,BZ,Belize,AMRO,208,16220,3,359
 02-09-2021,BZ,Belize,AMRO,133,16353,3,362
 03-09-2021,BZ,Belize,AMRO,140,16493,0,362
+04-09-2021,BZ,Belize,AMRO,119,16612,0,362
+05-09-2021,BZ,Belize,AMRO,138,16750,1,363
+06-09-2021,BZ,Belize,AMRO,0,16750,0,363
+07-09-2021,BZ,Belize,AMRO,0,16750,0,363

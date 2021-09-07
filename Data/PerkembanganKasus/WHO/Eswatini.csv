@@ -609,3 +609,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 01-09-2021,SZ,Eswatini,AFRO,317,43371,7,1101
 02-09-2021,SZ,Eswatini,AFRO,255,43626,11,1112
 03-09-2021,SZ,Eswatini,AFRO,231,43857,17,1129
+04-09-2021,SZ,Eswatini,AFRO,157,44014,3,1132
+05-09-2021,SZ,Eswatini,AFRO,120,44134,0,1132
+06-09-2021,SZ,Eswatini,AFRO,42,44176,13,1145
