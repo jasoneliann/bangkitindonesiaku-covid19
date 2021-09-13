@@ -616,3 +616,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 08-09-2021,FI,Finland,EURO,632,131686,0,1039
 09-09-2021,FI,Finland,EURO,486,132172,0,1039
 10-09-2021,FI,Finland,EURO,490,132662,0,1039
+11-09-2021,FI,Finland,EURO,0,132662,0,1039
+12-09-2021,FI,Finland,EURO,976,133638,0,1039

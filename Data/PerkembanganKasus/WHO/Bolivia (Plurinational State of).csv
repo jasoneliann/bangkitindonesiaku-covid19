@@ -614,5 +614,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-09-2021,BO,Bolivia (Plurinational State of),AMRO,289,492509,10,18507
 07-09-2021,BO,Bolivia (Plurinational State of),AMRO,171,492680,5,18512
 08-09-2021,BO,Bolivia (Plurinational State of),AMRO,435,493115,2,18514
-09-09-2021,BO,Bolivia (Plurinational State of),AMRO,0,493115,0,18514
-10-09-2021,BO,Bolivia (Plurinational State of),AMRO,799,493914,27,18541
+09-09-2021,BO,Bolivia (Plurinational State of),AMRO,403,493518,15,18529
+10-09-2021,BO,Bolivia (Plurinational State of),AMRO,396,493914,12,18541
+11-09-2021,BO,Bolivia (Plurinational State of),AMRO,379,494293,17,18558
+12-09-2021,BO,Bolivia (Plurinational State of),AMRO,371,494664,10,18568
+13-09-2021,BO,Bolivia (Plurinational State of),AMRO,0,494664,14,18582

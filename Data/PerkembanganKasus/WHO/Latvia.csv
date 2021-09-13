@@ -616,3 +616,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 08-09-2021,LV,Latvia,EURO,459,145402,3,2595
 09-09-2021,LV,Latvia,EURO,490,145892,3,2598
 10-09-2021,LV,Latvia,EURO,489,146381,4,2602
+11-09-2021,LV,Latvia,EURO,0,146381,0,2602
+12-09-2021,LV,Latvia,EURO,419,146800,5,2607

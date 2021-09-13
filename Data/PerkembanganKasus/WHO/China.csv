@@ -616,3 +616,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 08-09-2021,CN,China,WPRO,37,123322,0,5685
 09-09-2021,CN,China,WPRO,39,123361,0,5685
 10-09-2021,CN,China,WPRO,25,123386,1,5686
+11-09-2021,CN,China,WPRO,37,123423,1,5687
+12-09-2021,CN,China,WPRO,55,123478,0,5687
+13-09-2021,CN,China,WPRO,66,123544,0,5687

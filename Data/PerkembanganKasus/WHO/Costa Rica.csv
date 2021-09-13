@@ -616,3 +616,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 08-09-2021,CR,Costa Rica,AMRO,1435,478144,24,5642
 09-09-2021,CR,Costa Rica,AMRO,2956,481100,31,5673
 10-09-2021,CR,Costa Rica,AMRO,2884,483984,29,5702
+11-09-2021,CR,Costa Rica,AMRO,2975,486959,19,5721
+12-09-2021,CR,Costa Rica,AMRO,2825,489784,33,5754
+13-09-2021,CR,Costa Rica,AMRO,0,489784,0,5754

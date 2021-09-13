@@ -616,3 +616,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 08-09-2021,GN,Guinea,AFRO,0,29605,0,341
 09-09-2021,GN,Guinea,AFRO,313,29918,19,360
 10-09-2021,GN,Guinea,AFRO,35,29953,3,363
+11-09-2021,GN,Guinea,AFRO,34,29987,0,363
+12-09-2021,GN,Guinea,AFRO,14,30001,2,365

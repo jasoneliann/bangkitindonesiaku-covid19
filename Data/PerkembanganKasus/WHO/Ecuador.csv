@@ -616,3 +616,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 08-09-2021,EC,Ecuador,AMRO,51,503883,1,32353
 09-09-2021,EC,Ecuador,AMRO,374,504257,12,32365
 10-09-2021,EC,Ecuador,AMRO,0,504257,0,32365
+11-09-2021,EC,Ecuador,AMRO,0,504257,0,32365
+12-09-2021,EC,Ecuador,AMRO,818,505075,0,32365
+13-09-2021,EC,Ecuador,AMRO,187,505262,79,32444

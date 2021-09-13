@@ -616,3 +616,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 08-09-2021,KE,Kenya,AFRO,0,240430,0,4795
 09-09-2021,KE,Kenya,AFRO,1353,241783,35,4830
 10-09-2021,KE,Kenya,AFRO,501,242284,34,4864
+11-09-2021,KE,Kenya,AFRO,661,242945,32,4896
+12-09-2021,KE,Kenya,AFRO,511,243456,6,4902
