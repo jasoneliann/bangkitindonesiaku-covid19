@@ -618,3 +618,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 10-09-2021,MR,Mauritania,AFRO,90,34594,0,743
 11-09-2021,MR,Mauritania,AFRO,98,34692,4,747
 12-09-2021,MR,Mauritania,AFRO,79,34771,2,749
+13-09-2021,MR,Mauritania,AFRO,0,34771,0,749
+14-09-2021,MR,Mauritania,AFRO,179,34950,11,760
+15-09-2021,MR,Mauritania,AFRO,92,35042,0,760

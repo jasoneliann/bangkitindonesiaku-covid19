@@ -619,3 +619,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-09-2021,SV,El Salvador,AMRO,0,98122,10,3005
 12-09-2021,SV,El Salvador,AMRO,0,98122,8,3013
 13-09-2021,SV,El Salvador,AMRO,0,98122,9,3022
+14-09-2021,SV,El Salvador,AMRO,1579,99701,10,3032
+15-09-2021,SV,El Salvador,AMRO,0,99701,11,3043

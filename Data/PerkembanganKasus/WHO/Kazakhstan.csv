@@ -618,3 +618,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 10-09-2021,KZ,Kazakhstan,EURO,4299,904471,0,14423
 11-09-2021,KZ,Kazakhstan,EURO,3925,908396,0,14423
 12-09-2021,KZ,Kazakhstan,EURO,3845,912241,0,14423
+13-09-2021,KZ,Kazakhstan,EURO,3142,915383,608,15031
+14-09-2021,KZ,Kazakhstan,EURO,2825,918208,0,15031
+15-09-2021,KZ,Kazakhstan,EURO,0,918208,0,15031

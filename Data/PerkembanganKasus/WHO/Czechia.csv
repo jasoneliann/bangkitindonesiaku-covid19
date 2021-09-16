@@ -618,3 +618,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 10-09-2021,CZ,Czechia,EURO,421,1682475,0,30413
 11-09-2021,CZ,Czechia,EURO,451,1682926,0,30413
 12-09-2021,CZ,Czechia,EURO,253,1683179,0,30413
+13-09-2021,CZ,Czechia,EURO,136,1683315,1,30414
+14-09-2021,CZ,Czechia,EURO,487,1683802,2,30416
+15-09-2021,CZ,Czechia,EURO,555,1684357,1,30417

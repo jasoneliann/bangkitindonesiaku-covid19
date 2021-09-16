@@ -618,4 +618,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 10-09-2021,SY,Syrian Arab Republic,EMRO,134,28948,5,2054
 11-09-2021,SY,Syrian Arab Republic,EMRO,135,29083,6,2060
 12-09-2021,SY,Syrian Arab Republic,EMRO,137,29220,5,2065
-13-09-2021,SY,Syrian Arab Republic,EMRO,138,29358,6,2071
+13-09-2021,SY,Syrian Arab Republic,EMRO,278,29498,12,2077
+14-09-2021,SY,Syrian Arab Republic,EMRO,0,29498,0,2077
+15-09-2021,SY,Syrian Arab Republic,EMRO,150,29648,6,2083

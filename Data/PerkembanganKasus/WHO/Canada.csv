@@ -619,3 +619,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-09-2021,CA,Canada,AMRO,4166,1533466,28,27134
 12-09-2021,CA,Canada,AMRO,4627,1538093,36,27170
 13-09-2021,CA,Canada,AMRO,0,1538093,0,27170
+14-09-2021,CA,Canada,AMRO,0,1538093,0,27170
+15-09-2021,CA,Canada,AMRO,12979,1551072,68,27238

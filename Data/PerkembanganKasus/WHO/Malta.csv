@@ -618,3 +618,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 10-09-2021,MT,Malta,EURO,30,36636,0,446
 11-09-2021,MT,Malta,EURO,38,36674,0,446
 12-09-2021,MT,Malta,EURO,34,36708,1,447
+13-09-2021,MT,Malta,EURO,50,36758,2,449
+14-09-2021,MT,Malta,EURO,35,36793,0,449
+15-09-2021,MT,Malta,EURO,50,36843,0,449

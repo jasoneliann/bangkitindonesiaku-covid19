@@ -97,8 +97,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 07-04-2020,MC,Monaco,EURO,1,52,0,0
 08-04-2020,MC,Monaco,EURO,2,54,0,0
 09-04-2020,MC,Monaco,EURO,0,54,0,0
-10-04-2020,MC,Monaco,EURO,3,57,1,1
-11-04-2020,MC,Monaco,EURO,6,63,0,1
+10-04-2020,MC,Monaco,EURO,3,57,0,0
+11-04-2020,MC,Monaco,EURO,6,63,1,1
 12-04-2020,MC,Monaco,EURO,0,63,0,1
 13-04-2020,MC,Monaco,EURO,1,64,0,1
 14-04-2020,MC,Monaco,EURO,0,64,0,1
@@ -462,8 +462,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 07-04-2021,MC,Monaco,EURO,11,2344,0,30
 08-04-2021,MC,Monaco,EURO,8,2352,0,30
 09-04-2021,MC,Monaco,EURO,11,2363,0,30
-10-04-2021,MC,Monaco,EURO,5,2368,0,30
-11-04-2021,MC,Monaco,EURO,5,2373,1,31
+10-04-2021,MC,Monaco,EURO,5,2368,1,31
+11-04-2021,MC,Monaco,EURO,5,2373,0,31
 12-04-2021,MC,Monaco,EURO,1,2374,0,31
 13-04-2021,MC,Monaco,EURO,3,2377,0,31
 14-04-2021,MC,Monaco,EURO,1,2378,0,31
@@ -501,8 +501,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 16-05-2021,MC,Monaco,EURO,3,2493,0,32
 17-05-2021,MC,Monaco,EURO,0,2493,0,32
 18-05-2021,MC,Monaco,EURO,1,2494,0,32
-19-05-2021,MC,Monaco,EURO,1,2495,0,32
-20-05-2021,MC,Monaco,EURO,2,2497,0,32
+19-05-2021,MC,Monaco,EURO,3,2497,0,32
+20-05-2021,MC,Monaco,EURO,0,2497,0,32
 21-05-2021,MC,Monaco,EURO,2,2499,0,32
 22-05-2021,MC,Monaco,EURO,1,2500,0,32
 23-05-2021,MC,Monaco,EURO,1,2501,0,32
@@ -618,3 +618,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 10-09-2021,MC,Monaco,EURO,5,3265,0,35
 11-09-2021,MC,Monaco,EURO,8,3273,0,35
 12-09-2021,MC,Monaco,EURO,2,3275,0,35
+13-09-2021,MC,Monaco,EURO,1,3276,0,35
+14-09-2021,MC,Monaco,EURO,5,3281,0,35
+15-09-2021,MC,Monaco,EURO,3,3284,0,35

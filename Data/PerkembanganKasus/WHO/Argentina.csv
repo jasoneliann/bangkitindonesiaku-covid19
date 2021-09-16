@@ -619,3 +619,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-09-2021,AR,Argentina,AMRO,3661,5218993,137,113099
 12-09-2021,AR,Argentina,AMRO,4611,5223604,257,113356
 13-09-2021,AR,Argentina,AMRO,930,5224534,46,113402
+14-09-2021,AR,Argentina,AMRO,0,5224534,0,113402
+15-09-2021,AR,Argentina,AMRO,2297,5226831,238,113640

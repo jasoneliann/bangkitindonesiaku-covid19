@@ -618,4 +618,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 10-09-2021,TL,Timor-Leste,SEARO,97,18308,0,88
 11-09-2021,TL,Timor-Leste,SEARO,74,18382,2,90
 12-09-2021,TL,Timor-Leste,SEARO,133,18515,5,95
-13-09-2021,TL,Timor-Leste,SEARO,0,18515,0,95
+13-09-2021,TL,Timor-Leste,SEARO,82,18597,1,96
+14-09-2021,TL,Timor-Leste,SEARO,118,18715,2,98
+15-09-2021,TL,Timor-Leste,SEARO,71,18786,2,100

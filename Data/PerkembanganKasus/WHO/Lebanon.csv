@@ -619,3 +619,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-09-2021,LB,Lebanon,EMRO,815,611912,12,8169
 12-09-2021,LB,Lebanon,EMRO,801,612713,12,8181
 13-09-2021,LB,Lebanon,EMRO,785,613498,11,8192
+14-09-2021,LB,Lebanon,EMRO,0,613498,0,8192
+15-09-2021,LB,Lebanon,EMRO,484,613982,10,8202

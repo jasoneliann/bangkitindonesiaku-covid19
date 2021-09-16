@@ -618,3 +618,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 10-09-2021,TG,Togo,AFRO,246,23264,0,203
 11-09-2021,TG,Togo,AFRO,186,23450,1,204
 12-09-2021,TG,Togo,AFRO,168,23618,1,205
+13-09-2021,TG,Togo,AFRO,0,23618,0,205
+14-09-2021,TG,Togo,AFRO,160,23778,2,207
+15-09-2021,TG,Togo,AFRO,169,23947,1,208

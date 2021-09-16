@@ -616,6 +616,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 08-09-2021,GP,Guadeloupe,AMRO,0,49515,0,606
 09-09-2021,GP,Guadeloupe,AMRO,0,49515,0,606
 10-09-2021,GP,Guadeloupe,AMRO,0,49515,0,606
-11-09-2021,GP,Guadeloupe,AMRO,0,49515,0,606
-12-09-2021,GP,Guadeloupe,AMRO,0,49515,0,606
-13-09-2021,GP,Guadeloupe,AMRO,0,49515,0,606
+11-09-2021,GP,Guadeloupe,AMRO,1970,51485,89,695
+12-09-2021,GP,Guadeloupe,AMRO,0,51485,0,695
+13-09-2021,GP,Guadeloupe,AMRO,0,51485,0,695
+14-09-2021,GP,Guadeloupe,AMRO,0,51485,0,695
+15-09-2021,GP,Guadeloupe,AMRO,0,51485,0,695

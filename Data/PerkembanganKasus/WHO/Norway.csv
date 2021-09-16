@@ -618,3 +618,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 10-09-2021,NO,Norway,EURO,1628,173344,0,827
 11-09-2021,NO,Norway,EURO,0,173344,0,827
 12-09-2021,NO,Norway,EURO,0,173344,0,827
+13-09-2021,NO,Norway,EURO,0,173344,0,827
+14-09-2021,NO,Norway,EURO,3912,177256,2,829
+15-09-2021,NO,Norway,EURO,1221,178477,12,841

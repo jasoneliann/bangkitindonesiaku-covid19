@@ -617,5 +617,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 09-09-2021,DO,Dominican Republic,AMRO,192,352201,0,4013
 10-09-2021,DO,Dominican Republic,AMRO,240,352441,1,4014
 11-09-2021,DO,Dominican Republic,AMRO,321,352762,0,4014
-12-09-2021,DO,Dominican Republic,AMRO,0,352762,0,4014
-13-09-2021,DO,Dominican Republic,AMRO,0,352762,0,4014
+12-09-2021,DO,Dominican Republic,AMRO,309,353071,0,4014
+13-09-2021,DO,Dominican Republic,AMRO,232,353303,0,4014
+14-09-2021,DO,Dominican Republic,AMRO,239,353542,4,4018
+15-09-2021,DO,Dominican Republic,AMRO,345,353887,2,4020

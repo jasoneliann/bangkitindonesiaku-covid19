@@ -618,3 +618,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 10-09-2021,AT,Austria,EURO,2157,700067,3,10613
 11-09-2021,AT,Austria,EURO,2259,702326,5,10618
 12-09-2021,AT,Austria,EURO,2431,704757,5,10623
+13-09-2021,AT,Austria,EURO,1891,706648,0,10623
+14-09-2021,AT,Austria,EURO,1227,707875,4,10627
+15-09-2021,AT,Austria,EURO,1859,709734,7,10634
