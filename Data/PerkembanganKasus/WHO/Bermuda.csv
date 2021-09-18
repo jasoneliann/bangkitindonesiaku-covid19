@@ -620,4 +620,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 12-09-2021,BM,Bermuda,AMRO,54,3519,0,35
 13-09-2021,BM,Bermuda,AMRO,0,3519,0,35
 14-09-2021,BM,Bermuda,AMRO,0,3519,0,35
-15-09-2021,BM,Bermuda,AMRO,0,3519,0,35
+15-09-2021,BM,Bermuda,AMRO,251,3770,0,35
+16-09-2021,BM,Bermuda,AMRO,107,3877,1,36
+17-09-2021,BM,Bermuda,AMRO,150,4027,1,37

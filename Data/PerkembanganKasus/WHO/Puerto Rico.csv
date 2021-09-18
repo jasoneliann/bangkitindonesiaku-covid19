@@ -536,8 +536,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 20-06-2021,PR,Puerto Rico,AMRO,87,139669,0,2539
 21-06-2021,PR,Puerto Rico,AMRO,44,139713,1,2540
 22-06-2021,PR,Puerto Rico,AMRO,40,139753,0,2540
-23-06-2021,PR,Puerto Rico,AMRO,29,139782,3,2543
-24-06-2021,PR,Puerto Rico,AMRO,-1,139781,0,2543
+23-06-2021,PR,Puerto Rico,AMRO,28,139781,3,2543
+24-06-2021,PR,Puerto Rico,AMRO,0,139781,0,2543
 25-06-2021,PR,Puerto Rico,AMRO,21,139802,1,2544
 26-06-2021,PR,Puerto Rico,AMRO,69,139871,1,2545
 27-06-2021,PR,Puerto Rico,AMRO,38,139909,1,2546
@@ -621,3 +621,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 13-09-2021,PR,Puerto Rico,AMRO,462,176790,3,2998
 14-09-2021,PR,Puerto Rico,AMRO,298,177088,5,3003
 15-09-2021,PR,Puerto Rico,AMRO,47,177135,25,3028
+16-09-2021,PR,Puerto Rico,AMRO,325,177460,16,3044
+17-09-2021,PR,Puerto Rico,AMRO,522,177982,11,3055
