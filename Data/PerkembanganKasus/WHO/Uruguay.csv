@@ -623,3 +623,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 15-09-2021,UY,Uruguay,AMRO,172,386873,1,6041
 16-09-2021,UY,Uruguay,AMRO,155,387028,3,6044
 17-09-2021,UY,Uruguay,AMRO,128,387156,1,6045
+18-09-2021,UY,Uruguay,AMRO,143,387299,1,6046
+19-09-2021,UY,Uruguay,AMRO,150,387449,0,6046
+20-09-2021,UY,Uruguay,AMRO,106,387555,2,6048

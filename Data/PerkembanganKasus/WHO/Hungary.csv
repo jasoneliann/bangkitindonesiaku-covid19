@@ -623,3 +623,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 15-09-2021,HU,Hungary,EURO,371,816222,12,30114
 16-09-2021,HU,Hungary,EURO,458,816680,4,30118
 17-09-2021,HU,Hungary,EURO,479,817159,5,30123
+18-09-2021,HU,Hungary,EURO,0,817159,0,30123
+19-09-2021,HU,Hungary,EURO,0,817159,0,30123
+20-09-2021,HU,Hungary,EURO,1072,818231,13,30136

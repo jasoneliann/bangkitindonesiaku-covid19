@@ -622,4 +622,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 14-09-2021,MV,Maldives,SEARO,120,83070,0,227
 15-09-2021,MV,Maldives,SEARO,92,83162,0,227
 16-09-2021,MV,Maldives,SEARO,86,83248,0,227
-17-09-2021,MV,Maldives,SEARO,0,83248,0,227
+17-09-2021,MV,Maldives,SEARO,84,83332,2,229
+18-09-2021,MV,Maldives,SEARO,162,83494,0,229
+19-09-2021,MV,Maldives,SEARO,82,83576,0,229
+20-09-2021,MV,Maldives,SEARO,0,83576,0,229

@@ -623,3 +623,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 15-09-2021,HT,Haiti,AMRO,19,21318,0,596
 16-09-2021,HT,Haiti,AMRO,12,21330,0,596
 17-09-2021,HT,Haiti,AMRO,0,21330,0,596
+18-09-2021,HT,Haiti,AMRO,0,21330,0,596
+19-09-2021,HT,Haiti,AMRO,8,21338,1,597
+20-09-2021,HT,Haiti,AMRO,30,21368,6,603

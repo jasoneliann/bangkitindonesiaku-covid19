@@ -623,3 +623,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 15-09-2021,CY,Cyprus,EURO,126,118216,2,543
 16-09-2021,CY,Cyprus,EURO,230,118446,1,544
 17-09-2021,CY,Cyprus,EURO,124,118570,1,545
+18-09-2021,CY,Cyprus,EURO,153,118723,0,545
+19-09-2021,CY,Cyprus,EURO,140,118863,2,547
+20-09-2021,CY,Cyprus,EURO,0,118863,0,547

@@ -623,3 +623,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 15-09-2021,IS,Iceland,EURO,0,11307,0,33
 16-09-2021,IS,Iceland,EURO,31,11338,0,33
 17-09-2021,IS,Iceland,EURO,39,11377,0,33
+18-09-2021,IS,Iceland,EURO,27,11404,0,33
+19-09-2021,IS,Iceland,EURO,0,11404,0,33
+20-09-2021,IS,Iceland,EURO,67,11471,0,33

@@ -623,3 +623,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 15-09-2021,MU,Mauritius,AFRO,0,13782,0,45
 16-09-2021,MU,Mauritius,AFRO,291,14073,3,48
 17-09-2021,MU,Mauritius,AFRO,170,14243,2,50
+18-09-2021,MU,Mauritius,AFRO,163,14406,4,54
+19-09-2021,MU,Mauritius,AFRO,0,14406,0,54
+20-09-2021,MU,Mauritius,AFRO,329,14735,5,59

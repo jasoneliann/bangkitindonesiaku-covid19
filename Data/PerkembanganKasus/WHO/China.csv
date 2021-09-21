@@ -623,3 +623,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 15-09-2021,CN,China,WPRO,80,123722,0,5688
 16-09-2021,CN,China,WPRO,86,123808,0,5688
 17-09-2021,CN,China,WPRO,96,123904,0,5688
+18-09-2021,CN,China,WPRO,57,123961,0,5688
+19-09-2021,CN,China,WPRO,77,124038,0,5688
+20-09-2021,CN,China,WPRO,64,124102,1,5689
