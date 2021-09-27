@@ -628,4 +628,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 20-09-2021,LR,Liberia,AFRO,0,5915,0,283
 21-09-2021,LR,Liberia,AFRO,0,5915,0,283
 22-09-2021,LR,Liberia,AFRO,0,5915,0,283
-23-09-2021,LR,Liberia,AFRO,0,5915,0,283
+23-09-2021,LR,Liberia,AFRO,-123,5792,0,283
+24-09-2021,LR,Liberia,AFRO,0,5792,0,283
+25-09-2021,LR,Liberia,AFRO,0,5792,0,283
+26-09-2021,LR,Liberia,AFRO,0,5792,0,283

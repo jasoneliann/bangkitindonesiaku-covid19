@@ -629,3 +629,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 21-09-2021,UY,Uruguay,AMRO,72,387627,0,6048
 22-09-2021,UY,Uruguay,AMRO,117,387744,0,6048
 23-09-2021,UY,Uruguay,AMRO,178,387922,1,6049
+24-09-2021,UY,Uruguay,AMRO,146,388068,0,6049
+25-09-2021,UY,Uruguay,AMRO,123,388191,0,6049
+26-09-2021,UY,Uruguay,AMRO,122,388313,2,6051
+27-09-2021,UY,Uruguay,AMRO,111,388424,1,6052

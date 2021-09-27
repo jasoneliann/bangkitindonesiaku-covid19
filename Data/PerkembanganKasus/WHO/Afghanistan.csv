@@ -629,3 +629,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 21-09-2021,AF,Afghanistan,EMRO,127,154712,0,7199
 22-09-2021,AF,Afghanistan,EMRO,45,154757,0,7199
 23-09-2021,AF,Afghanistan,EMRO,43,154800,0,7199
+24-09-2021,AF,Afghanistan,EMRO,160,154960,0,7199
+25-09-2021,AF,Afghanistan,EMRO,59,155019,0,7199
+26-09-2021,AF,Afghanistan,EMRO,2,155021,0,7199
+27-09-2021,AF,Afghanistan,EMRO,51,155072,1,7200

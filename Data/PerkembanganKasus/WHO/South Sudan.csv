@@ -628,4 +628,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 20-09-2021,SS,South Sudan,AFRO,9,11814,0,121
 21-09-2021,SS,South Sudan,AFRO,17,11831,0,121
 22-09-2021,SS,South Sudan,AFRO,0,11831,0,121
-23-09-2021,SS,South Sudan,AFRO,0,11831,0,121
+23-09-2021,SS,South Sudan,AFRO,30,11861,0,121
+24-09-2021,SS,South Sudan,AFRO,38,11899,7,128
+25-09-2021,SS,South Sudan,AFRO,27,11926,0,128
+26-09-2021,SS,South Sudan,AFRO,10,11936,0,128
