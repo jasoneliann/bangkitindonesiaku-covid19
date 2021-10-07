@@ -635,5 +635,10 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 27-09-2021,MK,North Macedonia,EURO,336,189883,20,6609
 28-09-2021,MK,North Macedonia,EURO,112,189995,20,6629
 29-09-2021,MK,North Macedonia,EURO,467,190462,16,6645
-30-09-2021,MK,North Macedonia,EURO,452,190914,11,6656
-01-10-2021,MK,North Macedonia,EURO,494,191408,12,6668
+30-09-2021,MK,North Macedonia,EURO,452,190914,15,6660
+01-10-2021,MK,North Macedonia,EURO,494,191408,16,6676
+02-10-2021,MK,North Macedonia,EURO,412,191820,15,6691
+03-10-2021,MK,North Macedonia,EURO,468,192288,10,6701
+04-10-2021,MK,North Macedonia,EURO,190,192478,10,6711
+05-10-2021,MK,North Macedonia,EURO,176,192654,12,6723
+06-10-2021,MK,North Macedonia,EURO,398,193052,17,6740

@@ -637,3 +637,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 29-09-2021,BM,Bermuda,AMRO,163,5145,10,62
 30-09-2021,BM,Bermuda,AMRO,22,5167,0,62
 01-10-2021,BM,Bermuda,AMRO,77,5244,10,72
+02-10-2021,BM,Bermuda,AMRO,0,5244,0,72
+03-10-2021,BM,Bermuda,AMRO,92,5336,3,75
+04-10-2021,BM,Bermuda,AMRO,0,5336,0,75
+05-10-2021,BM,Bermuda,AMRO,0,5336,0,75
+06-10-2021,BM,Bermuda,AMRO,83,5419,7,82

@@ -637,3 +637,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 29-09-2021,NE,Niger,AFRO,16,5996,0,201
 30-09-2021,NE,Niger,AFRO,12,6008,0,201
 01-10-2021,NE,Niger,AFRO,16,6024,1,202
+02-10-2021,NE,Niger,AFRO,1,6025,1,203
+03-10-2021,NE,Niger,AFRO,10,6035,0,203
+04-10-2021,NE,Niger,AFRO,7,6042,0,203
+05-10-2021,NE,Niger,AFRO,0,6042,0,203
+06-10-2021,NE,Niger,AFRO,15,6057,1,204

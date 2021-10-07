@@ -636,4 +636,9 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 28-09-2021,GF,French Guiana,AMRO,0,39790,0,256
 29-09-2021,GF,French Guiana,AMRO,779,40569,6,262
 30-09-2021,GF,French Guiana,AMRO,276,40845,0,262
-01-10-2021,GF,French Guiana,AMRO,0,40845,0,262
+01-10-2021,GF,French Guiana,AMRO,268,41113,5,267
+02-10-2021,GF,French Guiana,AMRO,212,41325,1,268
+03-10-2021,GF,French Guiana,AMRO,0,41325,0,268
+04-10-2021,GF,French Guiana,AMRO,0,41325,0,268
+05-10-2021,GF,French Guiana,AMRO,0,41325,0,268
+06-10-2021,GF,French Guiana,AMRO,631,41956,12,280
