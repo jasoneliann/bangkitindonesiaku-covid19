@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,JE,Jersey,EURO,0,10054,0,78
 05-10-2021,JE,Jersey,EURO,6,10060,0,78
 06-10-2021,JE,Jersey,EURO,23,10083,0,78
+07-10-2021,JE,Jersey,EURO,34,10117,0,78
+08-10-2021,JE,Jersey,EURO,29,10146,1,79

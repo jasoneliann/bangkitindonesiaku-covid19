@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,LU,Luxembourg,EURO,101,78518,0,835
 05-10-2021,LU,Luxembourg,EURO,3,78521,0,835
 06-10-2021,LU,Luxembourg,EURO,99,78620,0,835
+07-10-2021,LU,Luxembourg,EURO,161,78781,1,836
+08-10-2021,LU,Luxembourg,EURO,160,78941,0,836

@@ -640,5 +640,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 02-10-2021,BS,Bahamas,AMRO,84,21198,4,537
 03-10-2021,BS,Bahamas,AMRO,67,21265,18,555
 04-10-2021,BS,Bahamas,AMRO,47,21312,2,557
-05-10-2021,BS,Bahamas,AMRO,0,21312,0,557
-06-10-2021,BS,Bahamas,AMRO,0,21312,0,557
+05-10-2021,BS,Bahamas,AMRO,50,21362,2,559
+06-10-2021,BS,Bahamas,AMRO,53,21415,17,576
+07-10-2021,BS,Bahamas,AMRO,43,21458,6,582
+08-10-2021,BS,Bahamas,AMRO,60,21518,4,586

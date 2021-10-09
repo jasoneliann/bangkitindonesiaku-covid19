@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,MA,Morocco,EMRO,504,935332,24,14339
 05-10-2021,MA,Morocco,EMRO,228,935560,16,14355
 06-10-2021,MA,Morocco,EMRO,676,936236,17,14372
+07-10-2021,MA,Morocco,EMRO,727,936963,18,14390
+08-10-2021,MA,Morocco,EMRO,0,936963,0,14390

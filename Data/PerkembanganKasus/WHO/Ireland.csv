@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,IE,Ireland,EURO,2635,393626,0,5249
 05-10-2021,IE,Ireland,EURO,893,394519,0,5249
 06-10-2021,IE,Ireland,EURO,1124,395643,0,5249
+07-10-2021,IE,Ireland,EURO,982,396625,31,5280
+08-10-2021,IE,Ireland,EURO,1206,397831,0,5280

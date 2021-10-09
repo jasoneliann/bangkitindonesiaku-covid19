@@ -641,4 +641,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 03-10-2021,NZ,New Zealand,WPRO,32,3994,0,27
 04-10-2021,NZ,New Zealand,WPRO,30,4024,0,27
 05-10-2021,NZ,New Zealand,WPRO,26,4050,0,27
-06-10-2021,NZ,New Zealand,WPRO,42,4092,0,27
+06-10-2021,NZ,New Zealand,WPRO,41,4091,0,27
+07-10-2021,NZ,New Zealand,WPRO,31,4122,0,27
+08-10-2021,NZ,New Zealand,WPRO,47,4169,1,28

@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,MN,Mongolia,WPRO,1501,312571,14,1274
 05-10-2021,MN,Mongolia,WPRO,2225,314796,15,1289
 06-10-2021,MN,Mongolia,WPRO,2409,317205,14,1303
+07-10-2021,MN,Mongolia,WPRO,2237,319442,15,1318
+08-10-2021,MN,Mongolia,WPRO,0,319442,0,1318

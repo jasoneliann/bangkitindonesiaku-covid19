@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,CA,Canada,AMRO,0,1629142,0,27921
 05-10-2021,CA,Canada,AMRO,0,1629142,0,27921
 06-10-2021,CA,Canada,AMRO,11464,1640606,80,28001
+07-10-2021,CA,Canada,AMRO,2814,1643420,49,28050
+08-10-2021,CA,Canada,AMRO,3733,1647153,62,28112

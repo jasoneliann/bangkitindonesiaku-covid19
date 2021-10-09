@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,UY,Uruguay,AMRO,160,389185,1,6057
 05-10-2021,UY,Uruguay,AMRO,0,389185,0,6057
 06-10-2021,UY,Uruguay,AMRO,75,389260,1,6058
+07-10-2021,UY,Uruguay,AMRO,103,389363,1,6059
+08-10-2021,UY,Uruguay,AMRO,142,389505,3,6062

@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,GH,Ghana,AFRO,0,127482,0,1156
 05-10-2021,GH,Ghana,AFRO,0,127482,0,1156
 06-10-2021,GH,Ghana,AFRO,396,127878,1,1157
+07-10-2021,GH,Ghana,AFRO,281,128159,0,1157
+08-10-2021,GH,Ghana,AFRO,209,128368,1,1158

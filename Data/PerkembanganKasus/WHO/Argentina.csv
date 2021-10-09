@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,AR,Argentina,AMRO,386,5259738,6,115245
 05-10-2021,AR,Argentina,AMRO,0,5259738,0,115245
 06-10-2021,AR,Argentina,AMRO,981,5260719,38,115283
+07-10-2021,AR,Argentina,AMRO,1216,5261935,40,115323
+08-10-2021,AR,Argentina,AMRO,1284,5263219,56,115379

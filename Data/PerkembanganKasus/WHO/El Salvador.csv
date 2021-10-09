@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,SV,El Salvador,AMRO,0,104348,15,3277
 05-10-2021,SV,El Salvador,AMRO,0,104348,16,3293
 06-10-2021,SV,El Salvador,AMRO,0,104348,19,3312
+07-10-2021,SV,El Salvador,AMRO,2987,107335,15,3327
+08-10-2021,SV,El Salvador,AMRO,329,107664,18,3345

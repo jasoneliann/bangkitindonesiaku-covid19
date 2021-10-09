@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,NG,Nigeria,AFRO,60,206138,-1,2723
 05-10-2021,NG,Nigeria,AFRO,141,206279,0,2723
 06-10-2021,NG,Nigeria,AFRO,282,206561,8,2731
+07-10-2021,NG,Nigeria,AFRO,0,206561,0,2731
+08-10-2021,NG,Nigeria,AFRO,649,207210,11,2742

@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,SD,Sudan,EMRO,0,38345,0,2876
 05-10-2021,SD,Sudan,EMRO,287,38632,0,2876
 06-10-2021,SD,Sudan,EMRO,33,38665,0,2876
+07-10-2021,SD,Sudan,EMRO,5,38670,0,2876
+08-10-2021,SD,Sudan,EMRO,76,38746,75,2951

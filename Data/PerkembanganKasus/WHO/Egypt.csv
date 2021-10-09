@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,EG,Egypt,EMRO,768,306798,37,17436
 05-10-2021,EG,Egypt,EMRO,771,307569,33,17469
 06-10-2021,EG,Egypt,EMRO,778,308347,39,17508
+07-10-2021,EG,Egypt,EMRO,788,309135,37,17545
+08-10-2021,EG,Egypt,EMRO,0,309135,0,17545

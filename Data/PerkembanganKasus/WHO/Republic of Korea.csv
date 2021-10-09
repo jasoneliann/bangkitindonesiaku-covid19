@@ -641,4 +641,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 03-10-2021,KR,Republic of Korea,WPRO,2085,318104,3,2507
 04-10-2021,KR,Republic of Korea,WPRO,1673,319777,6,2513
 05-10-2021,KR,Republic of Korea,WPRO,1574,321351,11,2524
-06-10-2021,KR,Republic of Korea,WPRO,2028,323379,12,2536
+06-10-2021,KR,Republic of Korea,WPRO,2026,323377,12,2536
+07-10-2021,KR,Republic of Korea,WPRO,2423,325800,8,2544
+08-10-2021,KR,Republic of Korea,WPRO,2176,327976,10,2554

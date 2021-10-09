@@ -642,3 +642,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 04-10-2021,GN,Guinea,AFRO,0,30434,0,379
 05-10-2021,GN,Guinea,AFRO,11,30445,2,381
 06-10-2021,GN,Guinea,AFRO,7,30452,2,383
+07-10-2021,GN,Guinea,AFRO,0,30452,0,383
+08-10-2021,GN,Guinea,AFRO,27,30479,0,383
