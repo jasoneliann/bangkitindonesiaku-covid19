@@ -644,3 +644,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,AF,Afghanistan,EMRO,31,155340,2,7216
 07-10-2021,AF,Afghanistan,EMRO,42,155382,4,7220
 08-10-2021,AF,Afghanistan,EMRO,47,155429,1,7221
+09-10-2021,AF,Afghanistan,EMRO,19,155448,0,7221
+10-10-2021,AF,Afghanistan,EMRO,18,155466,0,7221
+11-10-2021,AF,Afghanistan,EMRO,43,155509,5,7226

@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,MU,Mauritius,AFRO,0,16083,0,100
 07-10-2021,MU,Mauritius,AFRO,106,16189,6,106
 08-10-2021,MU,Mauritius,AFRO,0,16189,0,106
+09-10-2021,MU,Mauritius,AFRO,0,16189,0,106
+10-10-2021,MU,Mauritius,AFRO,102,16291,4,110

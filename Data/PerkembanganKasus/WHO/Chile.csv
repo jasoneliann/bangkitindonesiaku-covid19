@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,CL,Chile,AMRO,493,1657749,6,37506
 07-10-2021,CL,Chile,AMRO,695,1658444,6,37512
 08-10-2021,CL,Chile,AMRO,942,1659386,21,37533
+09-10-2021,CL,Chile,AMRO,0,1659386,0,37533
+10-10-2021,CL,Chile,AMRO,0,1659386,0,37533

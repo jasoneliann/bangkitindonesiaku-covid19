@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,PA,Panama,AMRO,121,467861,6,7244
 07-10-2021,PA,Panama,AMRO,253,468114,6,7250
 08-10-2021,PA,Panama,AMRO,211,468325,5,7255
+09-10-2021,PA,Panama,AMRO,0,468325,0,7255
+10-10-2021,PA,Panama,AMRO,0,468325,0,7255

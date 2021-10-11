@@ -644,3 +644,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,OM,Oman,EMRO,29,303866,2,4100
 07-10-2021,OM,Oman,EMRO,29,303895,1,4101
 08-10-2021,OM,Oman,EMRO,20,303915,0,4101
+09-10-2021,OM,Oman,EMRO,40,303955,0,4101
+10-10-2021,OM,Oman,EMRO,10,303965,1,4102
+11-10-2021,OM,Oman,EMRO,0,303965,0,4102

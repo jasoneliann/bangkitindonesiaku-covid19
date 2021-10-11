@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,LS,Lesotho,AFRO,0,21363,0,650
 07-10-2021,LS,Lesotho,AFRO,60,21423,0,650
 08-10-2021,LS,Lesotho,AFRO,10,21433,1,651
+09-10-2021,LS,Lesotho,AFRO,0,21433,0,651
+10-10-2021,LS,Lesotho,AFRO,16,21449,1,652

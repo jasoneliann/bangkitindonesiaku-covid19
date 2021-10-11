@@ -644,3 +644,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,PH,Philippines,WPRO,9034,2613049,0,38828
 07-10-2021,PH,Philippines,WPRO,9868,2622917,0,38828
 08-10-2021,PH,Philippines,WPRO,9964,2632881,109,38937
+09-10-2021,PH,Philippines,WPRO,10559,2643440,295,39232
+10-10-2021,PH,Philippines,WPRO,10963,2654403,273,39505
+11-10-2021,PH,Philippines,WPRO,12159,2666562,119,39624

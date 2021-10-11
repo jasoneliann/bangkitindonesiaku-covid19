@@ -644,3 +644,6 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,CN,China,WPRO,41,124884,0,5693
 07-10-2021,CN,China,WPRO,36,124920,0,5693
 08-10-2021,CN,China,WPRO,34,124954,0,5693
+09-10-2021,CN,China,WPRO,33,124987,1,5694
+10-10-2021,CN,China,WPRO,36,125023,1,5695
+11-10-2021,CN,China,WPRO,32,125055,0,5695

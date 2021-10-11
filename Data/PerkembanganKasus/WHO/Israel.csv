@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,IL,Israel,EURO,2529,1297015,14,7864
 07-10-2021,IL,Israel,EURO,2396,1299411,12,7876
 08-10-2021,IL,Israel,EURO,2064,1301475,9,7885
+09-10-2021,IL,Israel,EURO,0,1301475,0,7885
+10-10-2021,IL,Israel,EURO,1023,1302498,19,7904

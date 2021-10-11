@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,US,United States of America,AMRO,70915,43569012,1040,698905
 07-10-2021,US,United States of America,AMRO,110262,43679274,2803,701708
 08-10-2021,US,United States of America,AMRO,112980,43792254,1891,703599
+09-10-2021,US,United States of America,AMRO,0,43792254,0,703599
+10-10-2021,US,United States of America,AMRO,0,43792254,0,703599

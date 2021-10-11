@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,HN,Honduras,AMRO,1049,368324,24,9879
 07-10-2021,HN,Honduras,AMRO,330,368654,34,9913
 08-10-2021,HN,Honduras,AMRO,376,369030,36,9949
+09-10-2021,HN,Honduras,AMRO,0,369030,0,9949
+10-10-2021,HN,Honduras,AMRO,0,369030,0,9949

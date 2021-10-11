@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,MV,Maldives,SEARO,80,85278,0,232
 07-10-2021,MV,Maldives,SEARO,70,85348,0,232
 08-10-2021,MV,Maldives,SEARO,0,85348,0,232
+09-10-2021,MV,Maldives,SEARO,117,85465,2,234
+10-10-2021,MV,Maldives,SEARO,83,85548,0,234

@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,CO,Colombia,AMRO,1189,4963243,24,126425
 07-10-2021,CO,Colombia,AMRO,1211,4964454,30,126455
 08-10-2021,CO,Colombia,AMRO,1393,4965847,32,126487
+09-10-2021,CO,Colombia,AMRO,0,4965847,0,126487
+10-10-2021,CO,Colombia,AMRO,0,4965847,0,126487

@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,IS,Iceland,EURO,0,11990,0,33
 07-10-2021,IS,Iceland,EURO,45,12035,0,33
 08-10-2021,IS,Iceland,EURO,57,12092,0,33
+09-10-2021,IS,Iceland,EURO,55,12147,0,33
+10-10-2021,IS,Iceland,EURO,0,12147,0,33

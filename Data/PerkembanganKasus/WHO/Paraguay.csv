@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,PY,Paraguay,AMRO,20,460061,2,16203
 07-10-2021,PY,Paraguay,AMRO,23,460084,1,16204
 08-10-2021,PY,Paraguay,AMRO,29,460113,1,16205
+09-10-2021,PY,Paraguay,AMRO,0,460113,0,16205
+10-10-2021,PY,Paraguay,AMRO,0,460113,0,16205

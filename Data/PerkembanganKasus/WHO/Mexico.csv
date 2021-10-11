@@ -644,3 +644,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,MX,Mexico,AMRO,2282,3684242,303,279106
 07-10-2021,MX,Mexico,AMRO,7682,3691924,790,279896
 08-10-2021,MX,Mexico,AMRO,7697,3699621,714,280610
+09-10-2021,MX,Mexico,AMRO,0,3699621,0,280610
+10-10-2021,MX,Mexico,AMRO,0,3699621,0,280610
