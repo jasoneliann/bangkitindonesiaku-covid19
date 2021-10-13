@@ -646,4 +646,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 08-10-2021,SI,Slovenia,EURO,968,299248,0,4941
 09-10-2021,SI,Slovenia,EURO,838,300086,0,4941
 10-10-2021,SI,Slovenia,EURO,883,300969,2,4943
-11-10-2021,SI,Slovenia,EURO,489,301458,0,4943
+11-10-2021,SI,Slovenia,EURO,489,301458,1,4944
+12-10-2021,SI,Slovenia,EURO,186,301644,0,4944

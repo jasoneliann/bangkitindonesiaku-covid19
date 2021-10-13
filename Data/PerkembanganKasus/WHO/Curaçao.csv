@@ -644,5 +644,8 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 06-10-2021,CW,Curaçao,AMRO,9,16618,1,165
 07-10-2021,CW,Curaçao,AMRO,32,16650,0,165
 08-10-2021,CW,Curaçao,AMRO,34,16684,3,168
-09-10-2021,CW,Curaçao,AMRO,0,16684,0,168
-10-10-2021,CW,Curaçao,AMRO,0,16684,0,168
+09-10-2021,CW,Curaçao,AMRO,20,16704,0,168
+10-10-2021,CW,Curaçao,AMRO,0,16704,0,168
+11-10-2021,CW,Curaçao,AMRO,0,16704,0,168
+12-10-2021,CW,Curaçao,AMRO,83,16787,0,168
+13-10-2021,CW,Curaçao,AMRO,17,16804,0,168
