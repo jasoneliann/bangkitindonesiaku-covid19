@@ -649,3 +649,9 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 11-10-2021,MQ,Martinique,AMRO,0,41918,0,650
 12-10-2021,MQ,Martinique,AMRO,161,42079,3,653
 13-10-2021,MQ,Martinique,AMRO,104,42183,3,656
+14-10-2021,MQ,Martinique,AMRO,86,42269,0,656
+15-10-2021,MQ,Martinique,AMRO,97,42366,4,660
+16-10-2021,MQ,Martinique,AMRO,0,42366,0,660
+17-10-2021,MQ,Martinique,AMRO,62,42428,2,662
+18-10-2021,MQ,Martinique,AMRO,-62,42366,-2,660
+19-10-2021,MQ,Martinique,AMRO,177,42543,8,668
