@@ -656,3 +656,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 18-10-2021,RW,Rwanda,AFRO,-45,99143,0,1313
 19-10-2021,RW,Rwanda,AFRO,36,99179,0,1313
 20-10-2021,RW,Rwanda,AFRO,32,99211,1,1314
+21-10-2021,RW,Rwanda,AFRO,39,99250,0,1314
+22-10-2021,RW,Rwanda,AFRO,36,99286,2,1316
+23-10-2021,RW,Rwanda,AFRO,37,99323,2,1318
+24-10-2021,RW,Rwanda,AFRO,29,99352,2,1320

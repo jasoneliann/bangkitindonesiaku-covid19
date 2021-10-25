@@ -656,3 +656,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 18-10-2021,BH,Bahrain,EMRO,88,276118,0,1391
 19-10-2021,BH,Bahrain,EMRO,70,276188,0,1391
 20-10-2021,BH,Bahrain,EMRO,74,276262,1,1392
+21-10-2021,BH,Bahrain,EMRO,74,276336,0,1392
+22-10-2021,BH,Bahrain,EMRO,59,276395,0,1392
+23-10-2021,BH,Bahrain,EMRO,66,276461,1,1393
+24-10-2021,BH,Bahrain,EMRO,65,276526,0,1393

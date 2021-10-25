@@ -656,3 +656,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 18-10-2021,SN,Senegal,AFRO,1,73866,0,1871
 19-10-2021,SN,Senegal,AFRO,7,73873,0,1871
 20-10-2021,SN,Senegal,AFRO,2,73875,1,1872
+21-10-2021,SN,Senegal,AFRO,0,73875,1,1873
+22-10-2021,SN,Senegal,AFRO,1,73876,3,1876
+23-10-2021,SN,Senegal,AFRO,4,73880,0,1876
+24-10-2021,SN,Senegal,AFRO,11,73891,1,1877
