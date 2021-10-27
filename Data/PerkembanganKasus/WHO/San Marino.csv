@@ -658,5 +658,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 20-10-2021,SM,San Marino,EURO,2,5481,0,91
 21-10-2021,SM,San Marino,EURO,9,5490,0,91
 22-10-2021,SM,San Marino,EURO,7,5497,0,91
-23-10-2021,SM,San Marino,EURO,0,5497,0,91
-24-10-2021,SM,San Marino,EURO,0,5497,0,91
+23-10-2021,SM,San Marino,EURO,4,5501,0,91
+24-10-2021,SM,San Marino,EURO,1,5502,1,92
+25-10-2021,SM,San Marino,EURO,3,5505,0,92
+26-10-2021,SM,San Marino,EURO,16,5521,0,92

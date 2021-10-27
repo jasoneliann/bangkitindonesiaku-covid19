@@ -658,5 +658,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 20-10-2021,US,United States of America,AMRO,137310,44787306,3150,722844
 21-10-2021,US,United States of America,AMRO,79163,44866469,2389,725233
 22-10-2021,US,United States of America,AMRO,74227,44940696,1613,726846
-23-10-2021,US,United States of America,AMRO,0,44940696,0,726846
-24-10-2021,US,United States of America,AMRO,0,44940696,0,726846
+23-10-2021,US,United States of America,AMRO,88482,45029178,1558,728404
+24-10-2021,US,United States of America,AMRO,78075,45107253,1902,730306
+25-10-2021,US,United States of America,AMRO,0,45107253,0,730306
+26-10-2021,US,United States of America,AMRO,0,45107253,0,730306

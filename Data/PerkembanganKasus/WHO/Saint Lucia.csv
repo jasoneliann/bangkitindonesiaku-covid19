@@ -658,5 +658,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 20-10-2021,LC,Saint Lucia,AMRO,6,12234,1,237
 21-10-2021,LC,Saint Lucia,AMRO,46,12280,0,237
 22-10-2021,LC,Saint Lucia,AMRO,33,12313,0,237
-23-10-2021,LC,Saint Lucia,AMRO,0,12313,0,237
-24-10-2021,LC,Saint Lucia,AMRO,0,12313,0,237
+23-10-2021,LC,Saint Lucia,AMRO,18,12331,1,238
+24-10-2021,LC,Saint Lucia,AMRO,54,12385,1,239
+25-10-2021,LC,Saint Lucia,AMRO,41,12426,2,241
+26-10-2021,LC,Saint Lucia,AMRO,0,12426,0,241

@@ -660,3 +660,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 22-10-2021,QA,Qatar,EMRO,106,238271,0,608
 23-10-2021,QA,Qatar,EMRO,88,238359,0,608
 24-10-2021,QA,Qatar,EMRO,77,238436,0,608
+25-10-2021,QA,Qatar,EMRO,82,238518,1,609
+26-10-2021,QA,Qatar,EMRO,122,238640,0,609

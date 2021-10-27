@@ -660,3 +660,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 22-10-2021,CI,Côte d’Ivoire,AFRO,26,61139,0,689
 23-10-2021,CI,Côte d’Ivoire,AFRO,13,61152,0,689
 24-10-2021,CI,Côte d’Ivoire,AFRO,26,61178,1,690
+25-10-2021,CI,Côte d’Ivoire,AFRO,0,61178,0,690
+26-10-2021,CI,Côte d’Ivoire,AFRO,30,61208,0,690

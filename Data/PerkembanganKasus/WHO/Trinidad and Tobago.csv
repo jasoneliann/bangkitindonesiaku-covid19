@@ -658,5 +658,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 20-10-2021,TT,Trinidad and Tobago,AMRO,153,54267,5,1605
 21-10-2021,TT,Trinidad and Tobago,AMRO,138,54405,8,1613
 22-10-2021,TT,Trinidad and Tobago,AMRO,218,54623,8,1621
-23-10-2021,TT,Trinidad and Tobago,AMRO,0,54623,0,1621
-24-10-2021,TT,Trinidad and Tobago,AMRO,0,54623,0,1621
+23-10-2021,TT,Trinidad and Tobago,AMRO,258,54881,8,1629
+24-10-2021,TT,Trinidad and Tobago,AMRO,322,55203,4,1633
+25-10-2021,TT,Trinidad and Tobago,AMRO,234,55437,6,1639
+26-10-2021,TT,Trinidad and Tobago,AMRO,244,55681,6,1645

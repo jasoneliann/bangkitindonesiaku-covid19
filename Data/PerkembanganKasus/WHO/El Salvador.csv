@@ -658,5 +658,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 20-10-2021,SV,El Salvador,AMRO,0,110188,15,3505
 21-10-2021,SV,El Salvador,AMRO,0,110188,15,3520
 22-10-2021,SV,El Salvador,AMRO,0,110188,12,3532
-23-10-2021,SV,El Salvador,AMRO,0,110188,0,3532
-24-10-2021,SV,El Salvador,AMRO,0,110188,0,3532
+23-10-2021,SV,El Salvador,AMRO,2102,112290,12,3544
+24-10-2021,SV,El Salvador,AMRO,0,112290,10,3554
+25-10-2021,SV,El Salvador,AMRO,0,112290,10,3564
+26-10-2021,SV,El Salvador,AMRO,0,112290,11,3575

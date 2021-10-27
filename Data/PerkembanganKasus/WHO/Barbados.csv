@@ -658,5 +658,7 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 20-10-2021,BB,Barbados,AMRO,203,13171,1,120
 21-10-2021,BB,Barbados,AMRO,382,13553,0,120
 22-10-2021,BB,Barbados,AMRO,381,13934,3,123
-23-10-2021,BB,Barbados,AMRO,0,13934,0,123
-24-10-2021,BB,Barbados,AMRO,0,13934,0,123
+23-10-2021,BB,Barbados,AMRO,392,14326,1,124
+24-10-2021,BB,Barbados,AMRO,427,14753,0,124
+25-10-2021,BB,Barbados,AMRO,588,15341,6,130
+26-10-2021,BB,Barbados,AMRO,0,15341,0,130
