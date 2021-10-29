@@ -662,3 +662,5 @@ date_reported,country_code,country,who_region,new_cases,cumulative_cases,new_dea
 24-10-2021,MC,Monaco,EURO,1,3389,0,35
 25-10-2021,MC,Monaco,EURO,0,3389,1,36
 26-10-2021,MC,Monaco,EURO,5,3394,0,36
+27-10-2021,MC,Monaco,EURO,5,3399,0,36
+28-10-2021,MC,Monaco,EURO,5,3404,0,36
